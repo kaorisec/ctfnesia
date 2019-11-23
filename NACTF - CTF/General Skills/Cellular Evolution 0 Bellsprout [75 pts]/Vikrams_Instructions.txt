@@ -1,0 +1,10 @@
+Ok here is your job.
+Open up cell.jar by double clicking, and press "inpat" to import my cell pattern from "inpattern.txt" and start growing!
+Then type the letter "E" into the program box. The program box sets rules for how cells will evolve: E stands for east 
+and is equal to the value of the cell to the east. Therefore, each step, every cell will be set to the value of the cell directly east of it.
+
+After writing the program you are going to need to hit "parse" to compile the code. 
+Now hit "step" to go forward 1 generation and watch your cells evolve!
+Please record your results for me, I am particularly interested in what happens to the cells after 17 generations. 
+
+Thank you Squire or Squirette

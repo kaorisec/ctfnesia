@@ -1,0 +1,108 @@
+{
+    "Crypto": {
+        "Easy Cryptoyhparg": {
+            "Description": "", 
+            "Files": [
+                "/files/486c2146fe137cf4ffb50e1e68c3d248/flag.unk?token=eyJ0ZWFtX2lkIjozMCwidXNlcl9pZCI6MTMsImZpbGVfaWQiOjF9.XY8Diw.rrccAfHtIenlE9ls3RFBFaVCUVM"
+            ], 
+            "Hint": [], 
+            "ID": 2, 
+            "Points": 50
+        }, 
+        "Read The Book": {
+            "Description": "Ditemukan lirik lagu, judul dari lirik lagu tersebut adalah flag.", 
+            "Files": [
+                "/files/af57789fe9515085b608b0787b0693ce/desc.txt?token=eyJ0ZWFtX2lkIjozMCwidXNlcl9pZCI6MTMsImZpbGVfaWQiOjIzfQ.XY8DjA.4oEJdH0Za8Ez_OncmqaaVJdksww"
+            ], 
+            "Hint": [], 
+            "ID": 4, 
+            "Points": 200
+        }, 
+        "Wahihi": {
+            "Description": "", 
+            "Files": [
+                "/files/bb151733baec3f1d311b872c30866c73/wahihi.py?token=eyJ0ZWFtX2lkIjozMCwidXNlcl9pZCI6MTMsImZpbGVfaWQiOjV9.XY8DjA.RH0LcH0IcdB_bWUmO7FgKOnQgf0", 
+                "/files/551807d38f2d6320199c7d4f012e8caf/flag.txt.wahihi?token=eyJ0ZWFtX2lkIjozMCwidXNlcl9pZCI6MTMsImZpbGVfaWQiOjZ9.XY8DjA.dPPnXOCd4spETTCO1kDWwRic6v4"
+            ], 
+            "Hint": [], 
+            "ID": 5, 
+            "Points": 200
+        }, 
+        "bycrypt": {
+            "Description": "<code>nc 103.129.221.73 1337</code>", 
+            "Files": [], 
+            "Hint": [], 
+            "ID": 6, 
+            "Points": 100
+        }, 
+        "nggosor": {
+            "Description": "", 
+            "Files": [
+                "/files/cd70194d508402b69c57da8a1fcc3c19/nggosor?token=eyJ0ZWFtX2lkIjozMCwidXNlcl9pZCI6MTMsImZpbGVfaWQiOjJ9.XY8DjA.gkWnw_KaleCTra2MXpD5UJNL0Gs", 
+                "/files/042ba8fa0ffe376b4f3daa8b0d89e442/flag.txt.enc?token=eyJ0ZWFtX2lkIjozMCwidXNlcl9pZCI6MTMsImZpbGVfaWQiOjN9.XY8DjA.xqV-rYUHUNLb7KbJ_uwOslN6c8g"
+            ], 
+            "Hint": [], 
+            "ID": 3, 
+            "Points": 50
+        }
+    }, 
+    "Forensic": {
+        "Flashdisk": {
+            "Description": "Polisi berhasil menemukan sebuah flash drive milik hacker jahat yang kemungkinan berisi file yang bisa menjadi barang bukti kejahatan. Dapatkah kamu membuktikannya?", 
+            "Files": [
+                "/files/a2a1c93b242174e0fecf65938e70b466/find.7z?token=eyJ0ZWFtX2lkIjozMCwidXNlcl9pZCI6MTMsImZpbGVfaWQiOjd9.XY8DjA.LZ1vUcAZlfgu3jtx89iw5MPUykc"
+            ], 
+            "Hint": [], 
+            "ID": 7, 
+            "Points": 50
+        }, 
+        "Penipuan Online": {
+            "Description": "Polisi mendapat laporan bahwa Joko telah tertipu melalui modus penipuan via sms online. nomor hp joko adalah 085711894811. Setelah polisi melakukan tracking, pelaku tertuju di warnet ABC. Berikut kami sertakan file hasil dump komunikasi jaringan warnet tersebut.\r\nTemukan pesan penipuan yang dikirim ke si Joko.", 
+            "Files": [
+                "/files/76b7b295dba589fb5c242a3dd0bda34a/penipuan.pcap?token=eyJ0ZWFtX2lkIjozMCwidXNlcl9pZCI6MTMsImZpbGVfaWQiOjEwfQ.XY8DjA.wgJkB_YMd653EeX0za5RGRtdN74"
+            ], 
+            "Hint": [], 
+            "ID": 11, 
+            "Points": 100
+        }
+    }, 
+    "PWn": {
+        "kids": {
+            "Description": "<code>nc 103.129.221.73 5002</code>", 
+            "Files": [
+                "/files/f58076ae696efc8102341abe73732b3e/kids?token=eyJ0ZWFtX2lkIjozMCwidXNlcl9pZCI6MTMsImZpbGVfaWQiOjEzfQ.XY8DjA.jdH9mDOqay90OsUdlhTWbH12Y8Q"
+            ], 
+            "Hint": [], 
+            "ID": 13, 
+            "Points": 50
+        }
+    }, 
+    "Reverse Engineering": {
+        " splout": {
+            "Description": "", 
+            "Files": [
+                "/files/2ff85c88a5101d632a6d43933681a0e8/enc.unk?token=eyJ0ZWFtX2lkIjozMCwidXNlcl9pZCI6MTMsImZpbGVfaWQiOjIxfQ.XY8DjA.8Zo742G5VV71ioj_4jvKsWABZIw", 
+                "/files/831f8584d888e22960a1f202472bed40/splout?token=eyJ0ZWFtX2lkIjozMCwidXNlcl9pZCI6MTMsImZpbGVfaWQiOjI2fQ.XY8DjA.YJIKTzclnzOrj1Z5G0frAv3c4pc"
+            ], 
+            "Hint": [], 
+            "ID": 20, 
+            "Points": 300
+        }, 
+        "secret": {
+            "Description": "<a href=\"http://103.129.221.73:8087/\">secret</a>", 
+            "Files": [], 
+            "Hint": [], 
+            "ID": 22, 
+            "Points": 100
+        }
+    }, 
+    "Web": {
+        "EAR": {
+            "Description": "http://103.129.221.73:8083", 
+            "Files": [], 
+            "Hint": [], 
+            "ID": 25, 
+            "Points": 50
+        }
+    }
+}

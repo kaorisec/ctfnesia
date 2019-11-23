@@ -1,0 +1,410 @@
+{
+    "Binary Exploitation": {
+        "BufferOverflow #0": {
+            "Description": "The close cousin of a website for \"Question marked as duplicate\"\r\n\r\nCan you cause a segfault and get the flag?\r\n\r\n`shell.2019.nactf.com:31475`\r\n\r\n- ewn10", 
+            "Files": [
+                "/files/b40c833f91a919d5cd6ca63889b9588d/bufover-0?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjcwfQ.XYGX0g.r_ytYk4EpSsjsyb8YGPluux8lIw", 
+                "/files/07eae29ca785bee2ea19ca15e7fb699c/bufover-0.c?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjcxfQ.XYGX0g.cvkUbM5QADGgD4jEAfUi-2W3DXY"
+            ], 
+            "Hint": "", 
+            "ID": 31, 
+            "Points": 100
+        }, 
+        "BufferOverflow #1": {
+            "Description": "The close cousin of a website for \"Question marked as duplicate\" - part 2!\r\n\r\nCan you redirect code execution and get the flag?\r\n\r\nConnect at `shell.2019.nactf.com:31462`\r\n\r\n- ewn10", 
+            "Files": [
+                "/files/9ef51cab4348aafd96ce73589a90951e/bufover-1.c?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjY4fQ.XYGXzQ.WCWnlH9DYpweRuuVynL_Spu_kok", 
+                "/files/1bb4c3f8c48149eebd8f577e45b9a85a/bufover-1?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjY5fQ.XYGXzQ.vnMQ8ffa8p8WUltuWfg5RNgJ5aQ"
+            ], 
+            "Hint": "", 
+            "ID": 6, 
+            "Points": 200
+        }, 
+        "BufferOverflow #2": {
+            "Description": "The close cousin of a website for \"Question marked as duplicate\" - part 3!\r\n\r\nCan you control the arguments to `win()` and get the flag?\r\n\r\nConnect at `shell.2019.nactf.com:31184`\r\n\r\n- ewn10", 
+            "Files": [
+                "/files/86c19feb5f9e44171ac0d8b9f460fb4a/bufover-2.c?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjc2fQ.XYGX1w.uIeG7ozZomCAzQtWhPNymq_ITmM", 
+                "/files/d18de789a8f0e5d6ebdb5fbd11c1d2a6/bufover-2?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjc3fQ.XYGX1w.OZU230RoH1svr8VVQf29LuDcDR0"
+            ], 
+            "Hint": "", 
+            "ID": 33, 
+            "Points": 200
+        }, 
+        "Format #0": {
+            "Description": "Someone didn't tell Chaddha not to give user input as the first argument to `printf()` - use it to leak the flag!\r\n\r\nConnect at `shell.2019.nactf.com:31782`\r\n\r\n- ewn10", 
+            "Files": [
+                "/files/e85c0327e1784a8808ec3850b0ec8912/format-0.c?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjc5fQ.XYGX3A.eRCn96aME-fP5suf7bhC1jDewd0", 
+                "/files/6eccb0dedeb845d0ba3c48ae23c206a4/format-0?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjgwfQ.XYGX3A.eYNZhUzcl66VJUTVfaBJKeHbMJE"
+            ], 
+            "Hint": "", 
+            "ID": 34, 
+            "Points": 200
+        }, 
+        "Format #1": {
+            "Description": "printf can do more than just read memory... can you change the variable?\r\n\r\nConnect at `nc shell.2019.nactf.com 31560`\r\n\r\n- ewn10", 
+            "Files": [
+                "/files/cdcf48686b5c7643f0c6981c7c659ba4/format-1.c?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjEwNH0.XYGX3w.TgPK2UFDEut1dwNE5kWNpLRxhm4", 
+                "/files/928f4194cc9913a83f8ecf742bfb382c/format-1?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjEwNX0.XYGX3w.N_bXMuibh8OPnpomFdScyQVAlzQ"
+            ], 
+            "Hint": "", 
+            "ID": 38, 
+            "Points": 250
+        }, 
+        "Loopy #0": {
+            "Description": "This program is quite short, but has got `printf` *and* `gets` in it! This *shouldn't* be too hard, right?\r\n\r\nConnect at `nc shell.2019.nactf.com 31283`\r\n\r\n- ewn10", 
+            "Files": [
+                "/files/86115459d6f8c96eb837fd7eb80dccef/loopy-0.c?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjExNH0.XYGX5g.cqEYk0c55HaV0LH23HubVVFzF6Q", 
+                "/files/ad012a3272dea781912822edcea5ac2a/loopy-0?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjExNX0.XYGX5g.NzR6ZA1FF0zrbLuUHUtF0onUHgo", 
+                "/files/e807d8201d40b94a2526939b23298558/libc.so.6?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjExNn0.XYGX5g.FKwGkrOKWR4P_ZwCDdM5ArlUdRU"
+            ], 
+            "Hint": "", 
+            "ID": 45, 
+            "Points": 350
+        }, 
+        "Loopy #1": {
+            "Description": "Same program as Loopy #0, but someone's turned on the stack protector now!\r\n\r\nConnect at `nc shell.2019.nactf.com 31732`\r\n\r\n- ewn10", 
+            "Files": [
+                "/files/e6e8766de2487207342fa42b0bd342b4/loopy-1.c?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjEwOH0.XYGX4w.gZuxw0TPZmy-k5buSbFTXRIL94s", 
+                "/files/c9afff22c88998dbce81e222c1da8553/loopy-1?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjEwOX0.XYGX4w.Ny7gcGTseRAScoplT9Kb6cF1eKg", 
+                "/files/332342d8de468624bae0359fccb9957f/libc.so.6?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjExMH0.XYGX4w.hWJ8hgKSHveqd0O1wIlrjOxRrWo"
+            ], 
+            "Hint": "", 
+            "ID": 40, 
+            "Points": 500
+        }
+    }, 
+    "Cryptography": {
+        "Dr. J's Group Test Randomizer #2: BBOB": {
+            "Description": "This is it. The last group test of the year. Dr. J patched his prng again so numbers won't repeat, so I guess Leaf won't get to know the group test pairs ahead of time... oh WEYL. Who knew middle square could make such a good prng?\r\n\r\n`nc shell.2019.nactf.com 31382`\r\n\r\n- The20thDuck", 
+            "Files": [
+                "/files/620f34a1337c52546dfc063faacf93f8/class-randomizer-2.c?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjExOX0.XYGX-Q.e10Gzb2klLeT1JYIuhJXO9HiLaE"
+            ], 
+            "Hint": "", 
+            "ID": 36, 
+            "Points": 625
+        }, 
+        "Dr. J's Group Test Randomizer: Board Problem #0": {
+            "Description": "Dr. J created a fast pseudorandom number generator (prng) to randomly assign pairs for the upcoming group test. Leaf really wants to know the pairs ahead of time... can you help him and predict the next output of Dr. J's prng? Leaf is pretty sure that Dr. J is using the middle-square method.\r\n\r\n`nc shell.2019.nactf.com 31425`\r\n\r\nThe server is running the code in class-randomizer-0.c. Look at the function nextRand() to see how numbers are being generated!\r\n\r\n- The20thDuck", 
+            "Files": [
+                "/files/441e14d3a37c783f9115f0b8ada41344/class-randomizer-0.c?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjExN30.XYGX7g.pFHBeRb-1Fd7zSdFg35OWMAzXjk"
+            ], 
+            "Hint": "", 
+            "ID": 19, 
+            "Points": 100
+        }, 
+        "Dr. J's Group Test Randomizer: Board Problem #1": {
+            "Description": "Dr. J is back with another group test, and he patched his prng so we can't predict the next number based on the previous one! Can still you help Leaf predict the next output of the prng?\r\n\r\n`nc shell.2019.nactf.com 31258`\r\n\r\n- The20thDuck", 
+            "Files": [
+                "/files/171bbb1cd634d8748ceb6415af63346b/class-randomizer-1.c?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjExOH0.XYGX9Q.bCstFZ2azoPc4liixmHEEJ-QsZs"
+            ], 
+            "Hint": "", 
+            "ID": 26, 
+            "Points": 300
+        }, 
+        "Loony Tunes": {
+            "Description": "Ruthie is very inhumane. She keeps her precious pigs locked up in a pen. I heard that this secret message is the password to unlocking the gate to her PIGPEN. Unfortunately, Ruthie does not want people unlocking the gate so she encoded the password. Please help decrypt this code so that we can free the pigs!\r\n\r\nP.S. \r\n\"_\"  ,  \"{\"  , and \"}\" are not part of the cipher and should not be changed\r\n\r\nP.P.S\r\nthe flag is all lowercase ", 
+            "Files": [
+                "/files/fe10fb6760dffcc2ae7337ff7237127b/pig.jpg?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjExMn0.XYGX_Q.mZJh0IDc6syjF9RaDnhhFRsOztw"
+            ], 
+            "Hint": "", 
+            "ID": 43, 
+            "Points": 50
+        }, 
+        "Reversible Sneaky Algorithm #0": {
+            "Description": "Yavan sent me these really large numbers... what can they mean? He sent me the cipher \"c\", the private key \"d\", and the public modulus \"n\". I also know he converted his message to a number with ascii. For example:\r\n\r\n\"nactf\" --> \\x6e61637466 --> 474080310374\r\n\r\nCan you help me decrypt his cipher?\r\n\r\n- The20thDuck", 
+            "Files": [
+                "/files/7d48ca1a2ad49a1182948b830aa881b7/rsa.txt?token=.eJyrVipJTcyNz0xRsjIzM9BRKi1OLQLzDA2NLXWU0jJzUmHcWgA1gw1U.XYGX_Q.oYAlJgGxmPrcJBV7JhUM43vjRoY"
+            ], 
+            "Hint": "", 
+            "ID": 44, 
+            "Points": 125
+        }, 
+        "Reversible Sneaky Algorithm #1": {
+            "Description": "Lori decided to implement RSA without any security measures like random padding. Must be deterministic then, huh? Silly goose! \r\n\r\nShe encrypted a message of the form nactf{****} where the redacted flag is a string of 4 lowercase alphabetical characters. Can you decrypt it?\r\n\r\nAs in the previous problem, the message is converted to a number by converting ascii to hex.\r\n\r\n- The20thDuck", 
+            "Files": [
+                "/files/9d24a6e01243022f50ce7e9220752b0a/ReversibleSneakyAlgorithm.txt?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjE2fQ.XYGX6A.mS059mbNRXm4Jf-jh_Z6PCAFrr8"
+            ], 
+            "Hint": "", 
+            "ID": 9, 
+            "Points": 275
+        }, 
+        "Reversible Sneaky Algorithm #2": {
+            "Description": "Oligar was thinking about number theory at AwesomeMath when he decided to encrypt a message with RSA. As a mathematician, he made various observations about the numbers. He told Molly one such observation:\r\n\r\na^r \u2261 1 (mod n)\r\n\r\nHe isn't SHOR if he accidentally revealed anything by telling Molly this fact... can you decrypt his message? \r\n\r\nSource code, a and r, public key, and ciphertext are attached.\r\n\r\n- The20thDuck", 
+            "Files": [
+                "/files/6bd4bcf40831d49e477a03b5c18bf949/oligarchy.pem?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjQzfQ.XYGX8Q.vsRtD5yKcvt0Nl2kHmJUAE7T71k", 
+                "/files/c622165a2032b91e29636ed5c3b4c9d6/are_you_shor.txt?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjQ0fQ.XYGX8Q._Ig5O6qhTZs7UAcPZ3spovJXeqY", 
+                "/files/f9750140be575291cacbf124ff362a1b/shor.py?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjQ3fQ.XYGX8Q.YPqAuJ8CQ8MK-HXqFlI5yOzfceA"
+            ], 
+            "Hint": "", 
+            "ID": 23, 
+            "Points": 350
+        }, 
+        "Super Duper AES": {
+            "Description": "The Advanced Encryption Standard (AES) has got to go. Spencer just invented the Super Duper Advanced Encryption Standard (SDAES), and it's 100% unbreakable. AES only performs up to 14 rounds of substitution and permutation, while SDAES performs 10,000. That's so secure, SDAES doesn't even use a key!\r\n\r\n- The20thDuck", 
+            "Files": [
+                "/files/4c0b1809eb48e370f624396254facac0/cipher.txt?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjI2fQ.XYGX6Q.gB3J3yAF4cSNk6NTqbRCbLDoh9Q", 
+                "/files/35d4c6666ea4ece5ed4f93c2d70bc816/sdaes.py?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjI3fQ.XYGX6Q.-wZnmQv0QGl-6Q30qKAgzz6S2To"
+            ], 
+            "Hint": "", 
+            "ID": 15, 
+            "Points": 250
+        }, 
+        "Vyom's Soggy Croutons": {
+            "Description": "Vyom was eating a CAESAR salad with a bunch of wet croutons when he sent me this:\r\n\r\nertkw{vk_kl_silkv}\r\n\r\nCan you help me decipher his message?\r\n\r\n- The20thDuck", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 1, 
+            "Points": 50
+        }
+    }, 
+    "Forensics": {
+        "File recovery": {
+            "Description": "Uh oh! Lillian has accidentally deleted everything on her flash drive! Here's an image of the drive; find the PNG and get the flag.\r\n\r\n- ewn10", 
+            "Files": [
+                "/files/8a06476229267124ee16405af53aca46/filerecovery.iso.gz?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjQ5fQ.XYGYAQ.mZRSn2Qn3vJmlyG5Mf-swwU1VGg"
+            ], 
+            "Hint": "", 
+            "ID": 4, 
+            "Points": 300
+        }, 
+        "Filesystem Image": {
+            "Description": "Put the path to flag.txt together to get the flag! for example, if it was located at `ab/cd/ef/gh/ij/flag.txt`, your flag would be `nactf{abcdefghij}`\r\n\r\n- ewn10", 
+            "Files": [
+                "/files/0e4381e7b67f86ef09f6aa11a4674885/fsimage.iso.gz?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjUwfQ.XYGYBA.iaDADRRtVLhuqPhBBhUR5kpn9xo"
+            ], 
+            "Hint": "", 
+            "ID": 5, 
+            "Points": 200
+        }, 
+        "Kellen's Broken File": {
+            "Description": "Kellen gave in to the temptation and started playing World of Tanks again. He turned the graphics up so high that something broke on his computer!\r\n\r\nKellen is going to lose his HEAD if he can't open this file. Please help him fix this broken file. ", 
+            "Files": [
+                "/files/9689e2946c745f303b60d3278ddb171e/Kellens_broken_file.pdf?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjEwNn0.XYGYFA._8HVE5cAKHeeLQWhdHOTlP-Fb9k"
+            ], 
+            "Hint": "", 
+            "ID": 24, 
+            "Points": 150
+        }, 
+        "Kellen's PDF sandwich": {
+            "Description": "Kellen was playing some more World of Tanks.... \r\n\r\nHe played so much WOT that he worked up an appetite.\r\n\r\n Kellen ripped a PDF in half. He then treated these two halves as bread and placed a different PDF on the inside (yummy PDF meat!). That sounds like one good PDF sandwich. PDF on the outside and inside! YUM!", 
+            "Files": [
+                "/files/7e3c46f7664a125e476115a01535c0d6/MeltedFile.pdf?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjY2fQ.XYGYGA.7HQu5oK0Z17dXfr8Pyz7s9KwINc"
+            ], 
+            "Hint": "", 
+            "ID": 25, 
+            "Points": 150
+        }, 
+        "Least Significant Avenger": {
+            "Description": "I hate to say it but I think that Hawkeye is probably the Least Significant avenger. Can you find the flag hidden in this picture?", 
+            "Files": [
+                "/files/5f7ab93c5cdeabca200d348b941b7486/insignificant_hawkeye.png?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjE3fQ.XYGYCA.IgT-7k-CnkY9Ej22R-Y3JbrJNUE"
+            ], 
+            "Hint": "", 
+            "ID": 10, 
+            "Points": 50
+        }, 
+        "My Ears Hurt": {
+            "Description": "The20thDuck sent me this really annoying audio file. It's way too high pitched to be his voice. What he is trying to tell me? Maybe its a code; he is the crypto master after all. \r\n\r\nYou may have to convert file types.\r\n\r\nYou will need to insert the string into the nactf{...} form before submitting.", 
+            "Files": [
+                "/files/1b98b0f266ad412a081e4d8eb67c875a/the20thducksmessage.aiff?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjI4fQ.XYGYDw.wabcgGLvJtfFaioQ-_4gPb5bCds"
+            ], 
+            "Hint": "", 
+            "ID": 14, 
+            "Points": 75
+        }, 
+        "Phuzzy Photo": {
+            "Description": "Joyce's friend just sent her this photo, but it's really fuzzy. She has no idea what the message says but she thinks she can make out some black text in the middle. She gave the photo to Oligar, but even his super eyes couldn't read the text. Maybe you can write some code to find the message?  \r\n\r\nAlso, you might have to look at your screen from an angle to see the blurry hidden text\r\n\r\nP.S. \r\nJoyce's friend said that part of the message is hidden in every 6th pixel", 
+            "Files": [
+                "/files/d8ba455fd06ae658236b775bff244066/The_phuzzy_photo.png?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjEwMn0.XYGYEw.A_SLek59clyZ03q5UHU2Tfvyqtc"
+            ], 
+            "Hint": "", 
+            "ID": 20, 
+            "Points": 250
+        }, 
+        "The MetaMeme": {
+            "Description": "Phil sent me this meme and its a little but suspicious. The meme is super meta and it may be even more meta than you think.\r\n\r\nWouldn't it be really cool if it also had a flag hidden somewhere in it?\r\nWell you are in luck because it certainly does!", 
+            "Files": [
+                "/files/3f70c0a0e8e692f6a5e66b33e989798f/metametametameta.pdf?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjEwM30.XYGYDQ.0EDrMRAaozTkqVX9KBt2C1pJlKQ"
+            ], 
+            "Hint": "", 
+            "ID": 12, 
+            "Points": 75
+        }, 
+        "Unzip Me": {
+            "Description": "I stole these files off of The20thDucks' computer, but it seems he was smart enough to put a password on them. Can you unzip them for me?", 
+            "Files": [
+                "/files/d88ac4a06f9123531a8886a34eebbf72/zip1.zip?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjE4fQ.XYGYCg.nZAGfoPTTlRGNDT8m9EuBVh34iY", 
+                "/files/361271a06ae6dd2654e7abbbea0b8d5f/zip2.zip?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjE5fQ.XYGYCg.7nGJkXY33nSAfhQn94Qk7yZFcEc", 
+                "/files/8f7e01a289cc6c832b458a1929b95c17/zip3.zip?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjI5fQ.XYGYCg.64_TEdJbBPpI5tUln-fkZKdfnBg"
+            ], 
+            "Hint": "", 
+            "ID": 11, 
+            "Points": 150
+        }
+    }, 
+    "General Skills": {
+        "Cat over the wire": {
+            "Description": "Open up a terminal and connect to the server at shell.2019.nactf.com on port 31242 and get the flag!\r\n\r\nUse this netcat command in terminal:\r\n\r\n`nc shell.2019.nactf.com 31242`", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 3, 
+            "Points": 50
+        }, 
+        "Cellular Evolution #0: Bellsprout": {
+            "Description": "Vikram Loves Bio!\r\n\r\nHe loves it so much that he started growing Cellular Automata in a little jar of his. He hopes his Cellular Automata can be as strong as HeLa Cells. He has so many cells growing that he decided to hire you to help him with his project. Can you open these files and follow Vikram's instructions?", 
+            "Files": [
+                "/files/53f3047482192ba9c3351aa62dbd9401/Cell.jar?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjc1fQ.XYGYQQ.RWQwWYTEML6Ny2zTrAfJEEfHqOQ", 
+                "/files/203f61b8a0d793e6eabb2cb8bb128687/inpattern.txt?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjc4fQ.XYGYQQ.WKuJmIQ8iTUcspRe1OL3VjnUuGY", 
+                "/files/e4b133c3cf8a72610377908d7ea3022b/Vikrams_Instructions.txt?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjEwMH0.XYGYQQ.FHyXAxjhIWH8GutRU8ahj3yiUFQ"
+            ], 
+            "Hint": "", 
+            "ID": 32, 
+            "Points": 75
+        }, 
+        "Cellular Evolution #1: Weepinbell": {
+            "Description": "Apparently, Vikram was not satisfied with your work because he hired a new assistant: Eric. Eric has been doing a great job with managing the cells but he has allergies. Eric sneezed and accidentally messed up the order of the cells. Can you help Eric piece the cells back together?\r\n\r\nbtw, flag is all lowercase", 
+            "Files": [
+                "/files/2633bfd25f56d2a62bddc495ba32b4df/inpattern.txt?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjg1fQ.XYGYRg.nrDJgYjPPKLpc3mkgXn9Xkkgygw", 
+                "/files/0242a3c6cf2cee9bf126e1ca4faefd42/Cell.jar?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjg3fQ.XYGYRg.PDEwDcn2RInoOOExdbMTlrEejPA", 
+                "/files/13596861c1f2768a18e6f00b0403c511/How_to_use_cell.jar.txt?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjk5fQ.XYGYRg.hk53_To-WFTsFfnI1o7f-cyD9GQ", 
+                "/files/f32e23bdcd882a2a3af80e0ad0e6b022/Erics_Instructions.txt?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjEyMH0.XYGYRg.dpLP6dtKbfkQy1ycXZYO0MVsIS0"
+            ], 
+            "Hint": "", 
+            "ID": 35, 
+            "Points": 125
+        }, 
+        "Cellular Evolution #2: VikTreebel": {
+            "Description": "Thanks to your help, Eric and Vikram fixed their cells. Business is booming, and they're now a multinational megacorporation! They need bigger cells to meet demand: Eric used the rule \"sum8\" to evolve his cells to their next stage of evolution! Sum8 sets each cell to the sum of the cells around it (see examples). Eric sent us his evolved cells, but we want to know what they looked like before! Can you turn back time and get the flag?\r\n\r\n- The20thDuck", 
+            "Files": [
+                "/files/f698d5f56c03e67d222d98b04a592f0f/Cell.jar?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjU3fQ.XYGYPA.cgXfQ14FnSEVDfGc2owquDY9uj8", 
+                "/files/601f61bba496486f5dfdbefd569a339c/example1.png?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjU5fQ.XYGYPA.HH-8GfE6V7YnRKpUTOiaufwxyzM", 
+                "/files/cb7d8e5ad1e8588480706ba17dfe7171/example2.png?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjYwfQ.XYGYPA.rDbG_uNKaZAJ5epdRbwi3jfXHc4", 
+                "/files/42ad1b058e6f0495069871a9bf1dfdf5/inpattern.txt?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjYyfQ.XYGYPA.wWOqx1ZpfCuR_by8JGj2JqFTwsY"
+            ], 
+            "Hint": "", 
+            "ID": 30, 
+            "Points": 150
+        }, 
+        "Cellular Evolution #3: BBOB": {
+            "Description": "Dr. J was teaching Linear Algebra when he decided to buy some of Eric and Vik's cells! He cultivated the cells, drew a secret flag, and performed one step of \"sum8\". Luckily, he learned from Eric's mistake and added random 0's, 1's, and 2's in the background so nobody can reverse the message. Can you still get the flag?\r\n\r\n- The20thDuck", 
+            "Files": [
+                "/files/8b16161165ba40165a29e50f3ddd240b/Cell.jar?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjU2fQ.XYGYNg.SDyUg5nuyGwWrJYcLb92p3R9RuM", 
+                "/files/cdcca7391d790b41589155b932000aa2/inpattern.txt?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjkxfQ.XYGYNg.tFHITOdkUHM3ZpftLiOLrCjP_90"
+            ], 
+            "Hint": "", 
+            "ID": 29, 
+            "Points": 600
+        }, 
+        "Get a GREP #0!": {
+            "Description": "Vikram was climbing a chunky tree when he decided to hide a flag on one of the leaves. There are 10,000 leaves so there's no way you can find the right one in time... Can you open up a terminal window and get a grep on the flag? \r\n\r\n- The20thDuck", 
+            "Files": [
+                "/files/1bc1f0108c40e7e8346ea4edc372f6b1/bigtree.zip?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjI0fQ.XYGYHQ.xwODYtMh7eh_EKT6hPCJD23R7Cc"
+            ], 
+            "Hint": "", 
+            "ID": 13, 
+            "Points": 100
+        }, 
+        "Get a GREP #1!": {
+            "Description": "Juliet hid a flag among 100,000 dummy ones so I don't know which one is real! But maybe the format of her flag is predictable? I know sometimes people add random characters to the end of flags... I think she put 7 random vowels at the end of hers. Can you get a GREP on this flag?\r\n\r\n- The20thDuck", 
+            "Files": [
+                "/files/c570c25d7d43ac31ee91f9328a651c3a/flag.txt?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjEyMX0.XYGYTg.SPc1cVfN6oer2yOlcX6xgewA1So"
+            ], 
+            "Hint": "", 
+            "ID": 47, 
+            "Points": 125
+        }, 
+        "Grace's HashBrowns": {
+            "Description": "Grace was trying to make some food for her family but she really messed it up. She was trying to make some hashbrowns but instead, she made this: \r\n\r\nf5525fc4fc5fdd42a7cf4f65dc27571c\r\n\r\nI guess Grace is a really bad cook. But at least she tried to add some md5 sauce.\r\n\r\nremember to put the flag in nactf{....}", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 27, 
+            "Points": 50
+        }, 
+        "Hwang's Hidden Handiwork": {
+            "Description": "Hwang was trying to hide secret photos from his parents. His mom found a text file with a secret string and an excel chart which she thinks could help you decrypt it. Can you help uncover Hwang's Handiwork?\r\n\r\nOf course, the nobler of you may choose not to do this problem because you respect Hwang's privacy. That's ok, but you won't get the points.", 
+            "Files": [
+                "/files/152708851b5713e932a59a21c33ee6e0/hwangshandiwork.txt?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjMyfQ.XYGYIw.N6uz-DOA5WxbRaZRzt_6KFiPo5w", 
+                "/files/36927ea7901884634aef5e45d2eebed4/substitution.csv?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjMzfQ.XYGYIw.UcKBaAG4Ca8vF2GnBKDhjXqhIRc"
+            ], 
+            "Hint": "", 
+            "ID": 16, 
+            "Points": 100
+        }, 
+        "Intro to Flags": {
+            "Description": "Your flag is `nactf{w3lc0m3_t0_th3_m4tr1x}`.", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 37, 
+            "Points": 10
+        }, 
+        "Join the Discord": {
+            "Description": "Go to the NACTF home page and find the link to the Discord server. A flag will be waiting for you once you join. So will Austin.", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 17, 
+            "Points": 25
+        }, 
+        "Off-base": {
+            "Description": "It seems my friend Rohan won't stop sending cryptic messages and he keeps mumbling something about base 64. Quick! We need to figure out what he is trying to say before he loses his mind...\r\n\r\n\r\nbmFjdGZ7YV9jaDRuZzNfMGZfYmE1ZX0=", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 22, 
+            "Points": 25
+        }, 
+        "SHCALC": {
+            "Description": "John's written a handy calculator app - in bash! Too bad it's not that secure...\r\n\r\nConnect at `nc shell.2019.nactf.com 31214`", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 28, 
+            "Points": 200
+        }, 
+        "What the HEX?": {
+            "Description": "What the HEX man! My friend Elon just posted this message and I have no idea what it means >:( Please help me decode it:\r\n\r\nhttps://twitter.com/kevinmitnick/status/1028080089592815618?lang=en\r\n\r\nLeave the text format: no need to add nactf{} or change punctuation/capitalization\r\n\r\n", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 21, 
+            "Points": 25
+        }
+    }, 
+    "Reverse Engineering": {
+        "Keygen": {
+            "Description": "Can you figure out what the key to this program is?\r\n\r\n- ewn10", 
+            "Files": [
+                "/files/90fb65525d3d8be2e7adc983f5dbf778/keygen-1?token=eyJ0ZWFtX2lkIjo2NjAsInVzZXJfaWQiOjExMzksImZpbGVfaWQiOjEwN30.XYGYVQ.UsraRgOruFZdJABTENUGEZwZj84"
+            ], 
+            "Hint": "", 
+            "ID": 39, 
+            "Points": 600
+        }
+    }, 
+    "Web Exploitation": {
+        "Dexter's Lab": {
+            "Description": "Dee Dee, \r\n\r\nPlease check in on your brother's lab at dexterslab.web.2019.nactf.com\r\nWe know his username is Dexter, but we don't know his password! Maybe you can use a SQL injection?\r\n\r\nMom + Dad\r\n\r\n- The20thDuck", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 7, 
+            "Points": 125
+        }, 
+        "Pink Panther": {
+            "Description": "Rahul loves the Pink Panther. He even made this website: \r\n\r\nhttp://pinkpanther.web.2019.nactf.com \r\n\r\nI think he hid a message somewhere on the webpage, but I don't know where... can you INSPECT and find the message?\r\n\r\nhttps://www.youtube.com/watch?v=2HMSnfeNf8c\r\n\r\n- The20thDuck", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 8, 
+            "Points": 50
+        }, 
+        "Scooby Doo": {
+            "Description": "Kira loves to watch Scooby Doo so much that she made a website about it! She also added a clicker game which looks impossible. Can you use your inspector skills from Pink Panther to reveal the flag?\r\n\r\nhttp://scoobydoo.web.2019.nactf.com\r\n\r\n- The20thDuck", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 46, 
+            "Points": 100
+        }, 
+        "Sesame Street": {
+            "Description": "Surprisingly, The20thDuck loves cookies! He also has no idea how to use php. He accidentally messed up a cookie so it's only available on the countdown page... Also why use cookies in the first place?\r\n\r\nsesamestreet.web.2019.nactf.com\r\n\r\n- The20thDuck", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 41, 
+            "Points": 150
+        }
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "Crypto": {
+        "Crypt200": {
+            "Description": "https://drive.google.com/open?id=1Mi3sOOrnG0UY5u6AjjW_-WFPkdNM6KI0", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 5, 
+            "Points": 200
+        }
+    }, 
+    "Forensic": {
+        "Bonus buat kamu": {
+            "Description": "mohon diperbaiki \r\n\r\nflag = HUBAD2019{MD5-file}", 
+            "Files": [
+                "f983f69f63c785c437dc21c2680b85e9/ftypisom.rar"
+            ], 
+            "Hint": "", 
+            "ID": 14, 
+            "Points": 100
+        }, 
+        "keerkode": {
+            "Description": "Terdapat Pesan Rahasia di QR ", 
+            "Files": [
+                "aeb10283db0d968206fe5435da053d35/qr.png"
+            ], 
+            "Hint": "", 
+            "ID": 9, 
+            "Points": 70
+        }, 
+        "peta_rahasia": {
+            "Description": "Gambar peta yang terdapat pesan rahasia, apa pesan nya ? Password harus di decrypt dulu : artnenVAQBARFVN", 
+            "Files": [
+                "52fe208d54d165afc578caba58e623db/peta_rahasia.jpg"
+            ], 
+            "Hint": "", 
+            "ID": 13, 
+            "Points": 120
+        }
+    }, 
+    "Misc": {
+        "Misc5": {
+            "Description": "lost_string =  #6TV#ZDwJPNA30eGQ#X8b7xd#gYrRWHBS9h1Lv!# <br> <b>sha1(md5(flag)) == 64c6d8504872637e8426d4f25fb0436a3f2800dd</b>", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 2, 
+            "Points": 150
+        }, 
+        "pesan_RAH": {
+            "Description": "Terdapat Pesan Rahasia yang harus di selesaikan", 
+            "Files": [
+                "8b35c6fb06841d5c8228703a3b139560/pesan_RAH.exe"
+            ], 
+            "Hint": "", 
+            "ID": 12, 
+            "Points": 150
+        }
+    }, 
+    "Reverse": {
+        "ARM": {
+            "Description": "soal ARM... :D", 
+            "Files": [
+                "356b781bf14857b644ab17fdfe3e0d7d/soal-arm.zip"
+            ], 
+            "Hint": "", 
+            "ID": 16, 
+            "Points": 250
+        }, 
+        "Exploit": {
+            "Description": "Melakukan reversing crackme memang menyenangkan tetapi pada akhirnya Anda harus melakukan reversing terhadap program yang ada di dunia nyata. Di dalam digital forensic, reversing berguna untuk menganalisis file malicious (malware atau exploit). File berikut adalah sebuah berkas PDF untuk mengeksploitasi buffer overflow di Adobe Reader versi lama pada Windows. Dapatkah Anda melakukan reverse dan mendapatkan IP/Port tujuan payload reverse shell? Masukkan flag dengan format HUBAD2019{ip:port}\r\n\r\n(password: exploit) \r\n", 
+            "Files": [
+                "76f9b2d98d27ca56b6e457080e647f7c/pusdikhub-secret-document.zip"
+            ], 
+            "Hint": "", 
+            "ID": 20, 
+            "Points": 400
+        }, 
+        "REVER1": {
+            "Description": "Bongkar File Untuk dapatkan Flag", 
+            "Files": [
+                "414de5cf57b5ebace238050711f648c1/REVER1"
+            ], 
+            "Hint": "", 
+            "ID": 11, 
+            "Points": 100
+        }, 
+        "Rev300": {
+            "Description": "https://drive.google.com/open?id=1cz3Ap1Vr6ZOmCtlVGZ4sk4bdgXNR_5w5", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 3, 
+            "Points": 300
+        }, 
+        "Rev400": {
+            "Description": "https://drive.google.com/open?id=1-7wSWm2VUaHeKW5dVMtpFIeNKQHoCaq9", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 4, 
+            "Points": 400
+        }, 
+        "ReverseMe-Ez": {
+            "Description": "Revers in aku dong", 
+            "Files": [
+                "59d150c50fe01521f0be03210bd339a5/soal.zip"
+            ], 
+            "Hint": "", 
+            "ID": 15, 
+            "Points": 250
+        }, 
+        "Shikata Ga Nai": {
+            "Description": "File berikut adalah hasil generate msfvenom. Dapatkah Anda melakukan reverse dan mendapatkan IP/Port tujuan payload reverse shell? Masukkan flag dengan format HUBAD2019{ip:port}\r\n\r\n(password: shellcode)\r\n", 
+            "Files": [
+                "a8a7d1a522eb30feb71b7b32693f63bf/shikata_ga_nai.zip"
+            ], 
+            "Hint": "", 
+            "ID": 19, 
+            "Points": 250
+        }, 
+        "siap komandan": {
+            "Description": "nc 172.16.24.21 9000", 
+            "Files": [
+                "e249d5e927c30f60b1cef6621abbcb6c/keygen-buat-perserta.zip"
+            ], 
+            "Hint": "", 
+            "ID": 17, 
+            "Points": 155
+        }
+    }, 
+    "pwn": {
+        "Pwn300": {
+            "Description": "https://drive.google.com/open?id=1_LCxLs_l5YKQPuNnu6vMuBFpGPR6WD1H    (nc 172.16.24.210 2025)", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 6, 
+            "Points": 300
+        }, 
+        "Pwn400": {
+            "Description": "https://drive.google.com/open?id=1kpeNpYVk6xV3NkyGMz78-fKu4LWomkI-    (nc 172.16.24.210 2020)", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 7, 
+            "Points": 400
+        }
+    }, 
+    "web": {
+        "Fetcher": {
+            "Description": "Jutaan orang tidak menyadari bahwa website ini ada isinya. Baca kodenya dan retaslah http://172.16.24.210:10001/\r\n\r\n\"Flag ada di /flag.txt\" \r\n", 
+            "Files": [
+                "d4498ee50003384f18872d05883ae302/index.php"
+            ], 
+            "Hint": "", 
+            "ID": 18, 
+            "Points": 300
+        }, 
+        "web400": {
+            "Description": "http://172.16.24.210:2201/", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 1, 
+            "Points": 400
+        }, 
+        "webget": {
+            "Description": "Basic Web Hacking \r\n\r\nhttp://172.16.24.210:2209/", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 10, 
+            "Points": 50
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "Binary Service": {
+        "Kreis": {
+            "Description": "9 bytes shellcode (with sandbox)\r\n\r\n`nc 34.87.70.206 10003`", 
+            "Files": [
+                "/files/f2a0f57852ea202e777e354001578b19/kreis.zip?token=eyJ1c2VyX2lkIjo3LCJ0ZWFtX2lkIjpudWxsLCJmaWxlX2lkIjoxMX0.XabO2A.wfSQuB7ELNOSaODrUaDwrZw4Aqg"
+            ], 
+            "Hint": "", 
+            "ID": 7, 
+            "Points": 993
+        }, 
+        "Midas": {
+            "Description": "Coin change service\r\n\r\n`nc 34.87.70.206 10002`", 
+            "Files": [
+                "/files/a2689e70c6904939ffdf13e0e4a75126/midas.zip?token=eyJ1c2VyX2lkIjo3LCJ0ZWFtX2lkIjpudWxsLCJmaWxlX2lkIjo1fQ.XabO2A.AkupBPLHNSz4RZIPn_8188pLkAo"
+            ], 
+            "Hint": "", 
+            "ID": 2, 
+            "Points": 633
+        }, 
+        "Warshall": {
+            "Description": "Shortest path finder service\r\n\r\n`nc 34.87.70.206 10001`", 
+            "Files": [
+                "/files/75f7ad96729bd5c9f78c7468058b5bec/warshall.zip?token=eyJ1c2VyX2lkIjo3LCJ0ZWFtX2lkIjpudWxsLCJmaWxlX2lkIjo2fQ.XabO2A.Gp6bz07IKZPi6fuXc-P_X4GbWuI"
+            ], 
+            "Hint": "", 
+            "ID": 1, 
+            "Points": 813
+        }, 
+        "Ziel": {
+            "Description": "World Simulator\r\n\r\n`nc 34.87.70.206 10004`", 
+            "Files": [
+                "/files/4a87813ba4a5d9422f702afe92849d3b/ziel.zip?token=eyJ1c2VyX2lkIjo3LCJ0ZWFtX2lkIjpudWxsLCJmaWxlX2lkIjoxMn0.XabO2Q.DixsZTw1tFixoxqNsXIXDjPICNA"
+            ], 
+            "Hint": "", 
+            "ID": 8, 
+            "Points": 1000
+        }
+    }, 
+    "Web Service": {
+        "Choerry": {
+            "Description": "What's your motto? My motto: never give your secret to strangers!\r\n\r\nhttp://34.87.70.206:20003/\r\n\r\nNote: no source code given.", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 5, 
+            "Points": 993
+        }, 
+        "EZPHP": {
+            "Description": "They said hacking PHP is easy....\r\n\r\nhttp://34.87.70.206:20004/", 
+            "Files": [
+                "/files/81bcbfcfcca78724dbbad2323ca15207/ezphp-release.zip?token=eyJ1c2VyX2lkIjo3LCJ0ZWFtX2lkIjpudWxsLCJmaWxlX2lkIjoxMH0.XabO2g.EcFclt2w1xbAcGvciADxxWXH95U"
+            ], 
+            "Hint": "", 
+            "ID": 6, 
+            "Points": 393
+        }, 
+        "LookingGlass": {
+            "Description": "We found this open source web-based network debug tool on the internet.\r\n\r\nhttp://34.87.70.206:20001", 
+            "Files": [
+                "/files/0092a1102310831c6b142488590ab0a4/lookingglass.zip?token=eyJ1c2VyX2lkIjo3LCJ0ZWFtX2lkIjpudWxsLCJmaWxlX2lkIjo3fQ.XabO2Q.f3yOv7eN4nFkN04EJxwvM9n1TEg"
+            ], 
+            "Hint": "", 
+            "ID": 3, 
+            "Points": 933
+        }, 
+        "Yves": {
+            "Description": "Microservice as modern web application architecture.\r\n\r\nhttp://34.87.70.206:20002", 
+            "Files": [
+                "/files/58dc0dd0c636abeb194bef4dba1685ac/yves.zip?token=eyJ1c2VyX2lkIjo3LCJ0ZWFtX2lkIjpudWxsLCJmaWxlX2lkIjo5fQ.XabO2Q.rKJFULlb6hXMaQcedzsnam8HEZ8"
+            ], 
+            "Hint": "", 
+            "ID": 4, 
+            "Points": 1000
+        }
+    }
+}

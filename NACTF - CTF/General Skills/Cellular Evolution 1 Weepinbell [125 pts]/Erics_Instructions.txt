@@ -1,0 +1,20 @@
+Please help! My stupid allergies caused me to blow these cells all over the place.
+
+From what I understand, if you want to fix the cells you need to follow these rules.
+
+All the cells with a value of 4 need to be moved down and right and after they move they become a 3
+
+Cells with a value of 3 move down and to the left and become a cell with a value of 4
+
+Cells with a value of 1 move up and to the right and become a cell with a value of 2
+
+Cells with a value of 2 move up and to the left and become a cell with a value of 1
+
+Cells with a value of 5 stay still
+
+Thank you for your help pal :P
+
+P.S. 
+You are going to need to set the cell size to medium and set plane type to 8x1.
+
+

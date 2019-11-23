@@ -1,0 +1,104 @@
+{
+    "Cryptography": {
+        "Sandiman": {
+            "Description": "I believe that CTF player is much better than usual Sandiman!\r\n\r\nformat\r\nhctf{________}", 
+            "Files": [
+                "/files/e93eec2aee5c8ad239531e824ab9b785/res.txt?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjo0OCwiZmlsZV9pZCI6MTl9.XbU5Tw.XF7bzSQgZ9uVH7b9a_jMyPN_fKQ", 
+                "/files/05b7c2fafbecd80617ed6349af2a7e28/REAL_CRYPT.py?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjo0OCwiZmlsZV9pZCI6MjB9.XbU5Tw.tSWpT7RbWA4TJU8z3GDMrVFOvAU"
+            ], 
+            "Hint": "How about think simple and see what kind of encryption it is?", 
+            "ID": 20, 
+            "Points": 32
+        }, 
+        "Sandimanv2": {
+            "Description": "Looks like we forgot to hid somethin\r\n\r\nformat\r\nhctf{________}", 
+            "Files": [
+                "/files/936c58bf98cce2b3771749605b563946/output.txt?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjo0OCwiZmlsZV9pZCI6MjF9.XbU5Tw.Dsac-xphCw6yG3Vg-TvZKHPncuI", 
+                "/files/70a034381e090e080d08d75c18e85c14/encrypt.py?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjo0OCwiZmlsZV9pZCI6MjJ9.XbU5Tw.5TaFCxSDlFvKny-B0Tp6fUpX3x0"
+            ], 
+            "Hint": "", 
+            "ID": 21, 
+            "Points": 50
+        }
+    }, 
+    "Forensics": {
+        "(ICo)MP": {
+            "Description": "Backstreet loves require backstreet technique.\r\n\r\nkeep it secret!\r\n\r\nhttps://drive.google.com/open?id=1SBKQRfeX_pv0IhzZ_RcvhuJ_tRjX7tBJ", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 18, 
+            "Points": 100
+        }, 
+        "Jendela Dunia": {
+            "Description": "there's somethin rotted.\r\n\r\nbecareful, it may lead urs to be overwritten.", 
+            "Files": [
+                "/files/94deb46a8fa8dca31d4321deb760226e/Leaked?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjo0OCwiZmlsZV9pZCI6MTh9.XbU5UA.PDeAhKJ5Rcoxd5Lc5BY0S5Ke4yA"
+            ], 
+            "Hint": "1. Displaying Opened Application in Jendela", 
+            "ID": 19, 
+            "Points": 100
+        }
+    }, 
+    "Pwn": {
+        "Pwn it 1.0": {
+            "Description": "Pwn it and it's yours\r\n\r\nnc 34.87.0.60 14040", 
+            "Files": [
+                "/files/2dd5fee8d14ca86798163e17a76b4392/main?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjo0OCwiZmlsZV9pZCI6MjN9.XbU5UQ.BNr9yKecFGBkRkW-Tc4ucX5Xfa8", 
+                "/files/2cfb41734d80fd1fe329ab8bd7aa72c2/libc.so?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjo0OCwiZmlsZV9pZCI6MjR9.XbU5UQ.iN21p0Y_fcXM3oiKNLJWzFhIFmE"
+            ], 
+            "Hint": "", 
+            "ID": 22, 
+            "Points": 99
+        }, 
+        "Pwn it 2.0": {
+            "Description": "Pwn it and its yours!\r\n\r\nnc 34.87.0.60 14041", 
+            "Files": [
+                "/files/1d06d6653e0b645ab09319779114f734/libc-2.27.so?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjo0OCwiZmlsZV9pZCI6MjV9.XbU5UQ.uo_f4BzA8SqTzDkPAWl_teaWkWY", 
+                "/files/80870746241c11e5e4f4fa89849bbd98/medium?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjo0OCwiZmlsZV9pZCI6MjZ9.XbU5UQ.7eW5khRqJc0JH_0nBhP1_mxC8SM"
+            ], 
+            "Hint": "", 
+            "ID": 23, 
+            "Points": 100
+        }, 
+        "Welcome!": {
+            "Description": "Sori Bonusnya telat\r\n\r\nnc 34.87.0.60 14044", 
+            "Files": [
+                "/files/bb47961d3a16f5f9759608d0ef398509/welcome?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjo0OCwiZmlsZV9pZCI6MzB9.XbU5Ug.FPsv9AmQgs6xuVM1f_y0aWddjNU"
+            ], 
+            "Hint": "", 
+            "ID": 27, 
+            "Points": 50
+        }
+    }, 
+    "Reverse": {
+        "CrackMe": {
+            "Description": "Crack it and it's yours", 
+            "Files": [
+                "/files/298f69bf661bc82fdeba866d8ad3c9af/main?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjo0OCwiZmlsZV9pZCI6Mjd9.XbU5Ug.mpEgXKdSnTODX_CYnVBAYCScmks"
+            ], 
+            "Hint": "", 
+            "ID": 24, 
+            "Points": 65
+        }, 
+        "Keygen": {
+            "Description": "Reverse it and it's yours\r\n\r\n34.87.0.60:14043", 
+            "Files": [
+                "/files/333ed0b323604a807fe71a4d8267c16e/license?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjo0OCwiZmlsZV9pZCI6Mjh9.XbU5Ug.3QVL2Podltzin4oNytH0beIZhaw"
+            ], 
+            "Hint": "", 
+            "ID": 25, 
+            "Points": 50
+        }
+    }, 
+    "Web": {
+        "Regis Reborn": {
+            "Description": "It's reborn\r\n\r\nhttp://34.87.0.60:14045/", 
+            "Files": [
+                "/files/e2c17827b0bfb21999fbf988bb0b38d1/File.php?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjo0OCwiZmlsZV9pZCI6Mjl9.XbU5Uw.Wm0dgfn4mH9UIZ784F7EOFxHe34"
+            ], 
+            "Hint": "", 
+            "ID": 26, 
+            "Points": 50
+        }
+    }
+}

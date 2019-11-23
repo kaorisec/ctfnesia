@@ -1,0 +1,139 @@
+{
+    "Encryption": {
+        " Bellaso cipher": {
+            "Description": "informasi apa yang tersembunyi dalam file ini ? temukan flags dalam file tersebut. ", 
+            "Files": [
+                "/files/9f233548c97e4fa1cacdbb001c3edb89/DECRYPT.ME?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjoxNjcsImZpbGVfaWQiOjE0fQ.XZSt7A.OXT6wXLLlvSN4vSyzoJ2h74AIC0"
+            ], 
+            "Hint": [], 
+            "ID": 16, 
+            "Points": 50
+        }
+    }, 
+    "Forensic": {
+        "USB Forensic": {
+            "Description": "Tim analis telah menangkap informasi penting yang tidak dikenali pengirimnya. pcap tersebut diambil dari sebuahperangkat input dalam PC. temukan flags nya!\r\n", 
+            "Files": [
+                "/files/409862edaa2c0c0ee491c79ccc22e522/hiukawat.pcap?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjoxNjcsImZpbGVfaWQiOjE1fQ.XZSt7Q.h3f8rFHiFCxNLIYwYD-uf_E9trg", 
+                "/files/3854ea0962024be00752c713f8469926/fotousb.jpg?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjoxNjcsImZpbGVfaWQiOjE5fQ.XZSt7Q.uCFsUvZytCoWJvNjnKN3kRAfarc"
+            ], 
+            "Hint": [
+                {
+                    "cost": 50, 
+                    "id": 6
+                }
+            ], 
+            "ID": 18, 
+            "Points": 150
+        }
+    }, 
+    "Reverse Engineering ": {
+        "Filtered shellcode": {
+            "Description": "jalankan justrun . temukan flags dalam shellcode tersebut\r\n\r\n180.250.135.11:2200\r\n\r\nEksekusi kode yang di-XOR-kan dengan 00 01 .. ff", 
+            "Files": [
+                "/files/762c7abe767a2fbd5dd0ee9ab2223c1c/justrun?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjoxNjcsImZpbGVfaWQiOjIxfQ.XZSt7Q.VeNcSwTWLpZdEo6NsVJgF2jlksg"
+            ], 
+            "Hint": [], 
+            "ID": 28, 
+            "Points": 200
+        }, 
+        "decode me": {
+            "Description": "temukan flags dalam file binary ini", 
+            "Files": [
+                "/files/2e50edcb05363a926979a823ca71092d/mooncode?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjoxNjcsImZpbGVfaWQiOjE2fQ.XZSt7Q.4ukZg-UPKvhhczA9CNiAYCV_t50"
+            ], 
+            "Hint": [], 
+            "ID": 19, 
+            "Points": 200
+        }
+    }, 
+    "Steganography": {
+        "Bendera Nganu": {
+            "Description": "temukan flags yang tersembunyi dalam gambar ini ", 
+            "Files": [
+                "/files/9f872a413ac50266766463663bd61eaa/BenderaNganu.png?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjoxNjcsImZpbGVfaWQiOjE3fQ.XZSt7Q.QBAffdk-XHOea6EkP6kpcs39GUc"
+            ], 
+            "Hint": [], 
+            "ID": 21, 
+            "Points": 75
+        }, 
+        "what flags :p ? ": {
+            "Description": "Salah satu kata dalam bahasa Indonesia dapat membantu perjalanan pulang anda.\r\n\r\njim geovedi akan menuntun anda pulang menuju gambar yang anda inginkan\r\n\r\nflag: gemastik{jawaban}\r\ndownload file di http://180.250.135.11/perjalanan_pulang.wav", 
+            "Files": [], 
+            "Hint": [
+                {
+                    "cost": 10, 
+                    "id": 8
+                }, 
+                {
+                    "cost": 50, 
+                    "id": 9
+                }
+            ], 
+            "ID": 20, 
+            "Points": 200
+        }
+    }, 
+    "Web Apps": {
+        "Web Injection": {
+            "Description": "Soal Hack Vulnerable Web Application dibuat dengan tujuan untuk menguji kemampuan peserta dalam melakukan eksploitasi celah keamanan. Dalam hal ini, celah keamanan yang dapat dieksploitasi adalah SQL Injection. \r\nHanya admin yang dapat membuka jalan Anda :-)\r\nhttp://180.250.135.10:8080/", 
+            "Files": [], 
+            "Hint": [
+                {
+                    "cost": 50, 
+                    "id": 5
+                }
+            ], 
+            "ID": 23, 
+            "Points": 300
+        }, 
+        "try me!": {
+            "Description": "Seorang programmer ditugaskan untuk membuat suatu website, namun dia tidak bisa menyelesaikannya.\r\nProgrammer tersebut meninggalkan sebuah pesan rahasia pada website tersebut.\r\nTidak ada petunjuk jika belum mengakses websitenya.\r\n\r\nhttp://180.250.135.8:8081", 
+            "Files": [], 
+            "Hint": [], 
+            "ID": 22, 
+            "Points": 200
+        }
+    }, 
+    "Web Exploitation": {
+        "exploit me! ": {
+            "Description": "caesar lupa password untuk sebuah aplikasi web. namun dalam aplikasi tersebut tidak terdapat forget password. Dapatkah anda menolong Caesar ? \r\n\r\nakses ke http://180.250.135.11/", 
+            "Files": [], 
+            "Hint": [
+                {
+                    "cost": 50, 
+                    "id": 7
+                }
+            ], 
+            "ID": 26, 
+            "Points": 250
+        }
+    }, 
+    "encryption": {
+        "Decode this message ": {
+            "Description": "Decode pesan yang menggunakan bahasa indonesia ini. Pesan berawalan dengan gemastik universitas telkom .... \r\n\r\nqudjvbpg wepaunvpbjv bucgtd Gtdwepgjvp dunwyjgje ojc hjeq vjeqjb yuebpeq ijcjd guopiwyje. Gtdwepgjvp ijcjd guopiwyje vuojnp ojnp ijyjb ipcjgwgje vuxjnj cjeqvweq djwywe bpijg cjeqvweq, njojvpj djwywe bpijg, ije bunbwcpv djwywe bpijg bunbwcpv. Gtdwepgjvp njojvpj zpjvjehj dueqqwejgje vjeip. Vjeip zunjvjc ijnp zjojvj vjevugunbj hjeq dudpcpgp jnbp njojvpj jbjw duehudzwehpgje. Yjij qudjvpbpg pep jeij ipdpebj duduxjogje vjeip pep gudwipje ipcjerwbgje webwg ducjgwgje gteugvp gu aye vunaun iueqje vunaunEjdu cpdj udyjb bpbpg vjbw uejd vudzpcje bpbpg vjbw udyjb udyjb bpbpg vjbw bwrwo cpdj, wvunejdu dueqqwejgje jetehdtwv ije bunjgopn dueqqwejgje yjvvstni qudjvbpg. gudwipje vubucjo bungteugvp gu aye vunaun cjgwgjeecjo vvo gu py vjbw bpqj bpbpg iwj iwj vudzpcje bpbpg uejd udyjb bpbpg iucjyje bwrwo iueqje wvunejdu wzwebw. guh jij ip kpcu mpy iueqje yjvvstni vjdj vuyunbp yjvvstni aye vunaun. xjbjbje rjeqje dueqojywv kcjq hjeq jij. Bunpdj gjvpo\r\n\r\n\r\n\r\n", 
+            "Files": [
+                "/files/f19992cd1bf9888cc3ad1faf3b5d4299/fileSatu.zip?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjoxNjcsImZpbGVfaWQiOjE4fQ.XZSt7Q.cZY3UMDMLJBShpo2uP8k6vpE3yo"
+            ], 
+            "Hint": [], 
+            "ID": 17, 
+            "Points": 100
+        }
+    }, 
+    "miscellaneous": {
+        "filtering words. ": {
+            "Description": "lakukan filtering, kemudian decrypt. anda akan menemukan flags dalam direktori ini !", 
+            "Files": [
+                "/files/c49c76d7e0156fd2bdb051bda5df083d/etc_2.zip?token=eyJ0ZWFtX2lkIjpudWxsLCJ1c2VyX2lkIjoxNjcsImZpbGVfaWQiOjIwfQ.XZSt7g.DP6MS5_4hh9SzzXPzmtUZ3KLb8E"
+            ], 
+            "Hint": [
+                {
+                    "cost": 25, 
+                    "id": 10
+                }
+            ], 
+            "ID": 27, 
+            "Points": 150
+        }
+    }
+}

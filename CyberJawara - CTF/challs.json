@@ -1,0 +1,182 @@
+{
+    "Binary Hacking": {
+        "Homelander": {
+            "Description": "Mari belajar mengeksploitasi heap karena itu yang banyak ditemukan di aplikasi real.\r\n\r\nhttps://drive.google.com/open?id=1q8DwxLNY227b5G5kyw0U-W0YgoWR9QNf\r\n\r\n`nc 203.34.119.237 11340`\r\n\r\nHint:\r\n- Sistem yang digunakanan soal ini sama dengan yang ada pada soal Noir ataupun Maeve (Ubuntu 18.04).\r\n\r\n\r\n*Problem setter: farisv*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 17, 
+            "Points": 477
+        }, 
+        "Maeve": {
+            "Description": "Walaupun saat ini sistem 64 bit dipakai di mana-mana, beberapa sistem masih harus menggunakan OS 32 bit (misalnya untuk IoT devices seperti Raspberry Pi). Retaslah aplikasi berikut yang merupakan ELF 32 bit yang statically-linked.\r\n\r\nhttps://drive.google.com/open?id=15RCO1csb7fihQNfiC24J2j6oEXI9nPPC\r\n\r\n`nc 203.34.119.237 11339`\r\n\r\n\r\n*Problem setter: farisv*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 16, 
+            "Points": 697
+        }, 
+        "Noir": {
+            "Description": "Program berikut adalah implementasi algoritma counting sort dengan \"fungsi tersembunyi\".\r\n\r\nhttps://drive.google.com/open?id=1aVNREY10F0gxlLRf1FVbMDOq83iQM54I\r\n\r\n`nc 203.34.119.237 11338`\r\n\r\n\r\n*Problem setter: farisv*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 15, 
+            "Points": 423
+        }, 
+        "Starlight": {
+            "Description": "Dapatkah Anda memahami kode C dari binary ini dan meretas network service yang menjalankan binary tersebut?\r\n\r\nhttps://drive.google.com/open?id=1Kuj6sTWI4WE4mLFL4W8hdH5MEB2JjIiX\r\n\r\n`nc 203.34.119.237 11337`\r\n\r\n\r\n*Problem setter: farisv*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 14, 
+            "Points": 366
+        }
+    }, 
+    "Cryptography": {
+        "Insanity Check": {
+            "Description": "Kali ini tidak ada private key untuk Anda.\r\n\r\nhttps://drive.google.com/open?id=1kZ6PP7ipHNQnKFeo5gAY5D7PYkcn2IBK\r\n\r\n*Problem setter: farisv*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 3, 
+            "Points": 100
+        }, 
+        "RC4": {
+            "Description": "Pecahkan stream cipher berikut.\r\n\r\nhttps://drive.google.com/open?id=1MmA-EwqJJZzY0bymcp7aJRLmA8bgFu4f\r\n\r\n**UPDATE**\r\n\r\nMohon maaf ada berkas yang kurang pada archive di atas. Berikut adalah berkas yang Anda butuhkan https://drive.google.com/open?id=1xmTbm31bNIkv-DLIkqwc-w_YKQtwyF13 \r\n\r\n\r\n*Problem setter: farisv*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 2, 
+            "Points": 326
+        }, 
+        "Sanity Check": {
+            "Description": "Cek apakah Anda familiar dengan kriptografi.\r\n\r\nhttps://drive.google.com/open?id=1tiOQLshZF5UcUJsp2VMkVYB6nY8UGVYq\r\n\r\n\r\n*Problem setter: farisv*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 1, 
+            "Points": 100
+        }
+    }, 
+    "Digital Forensics": {
+        "CJ.docx": {
+            "Description": "Berkas docx ini terdeteksi sebagai malicious tetapi tidak ada macro di dalamnya. Ada apa di dalam docx ini?\r\n\r\nhttps://drive.google.com/open?id=1jJUNBQ1ruTIC5MHNewgTWEdMKsd8bj_g\r\n\r\n\r\n*Problem setter: farisv*\r\n\r\n", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 7, 
+            "Points": 100
+        }, 
+        "audit.log": {
+            "Description": "Seseorang telah meng-compromise server Linux kami. Untungnya kami sebelumnya sudah memasang auditd daemon guna melakukan logging untuk syscall tertentu. Dapatkah Anda menganalisis apa yang attacker lakukan dengan melakukan forensik pada berkas audit.log ini?\r\n\r\nhttps://drive.google.com/open?id=18fGxvd9u_hxn4A7Fd1_sbDIs-n_SMp7y\r\n\r\n\r\n*Problem setter: farisv*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 8, 
+            "Points": 100
+        }, 
+        "python3.dump": {
+            "Description": "Dukungan untuk Python 2 akan segera berakhir. Attacker pun mulai lebih sering menggunakan Python 3 termasuk pada saat post exploitation. Berikut adalah memory dump dari suatu process Python 3 yang mencurigakan pada server Linux. Dapatkah Anda melakukan forensik dan mengekstraksi informasi berharga dari situ?\r\n\r\nhttps://drive.google.com/open?id=1NQ5PUt8GL-yHZBVlxJ6QdYCxraefD1ZJ\r\n\r\n\r\n*Problem setter: farisv*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 9, 
+            "Points": 500
+        }
+    }, 
+    "Network": {
+        "Encrypted": {
+            "Description": "IDS kami mendeteksi adanya reverse shell pada mesin Windows kami. Namun, kami tidak dapat mengetahui apa yang sebenarnya attacker lakukan. Di saat yang sama, sepertinya attacker mengakses sesuatu melalui komunikasi yang terenkripsi. Dapatkah Anda menganalisis apa yang attacker lakukan?\r\n\r\nhttps://drive.google.com/open?id=1fAvYQ6ImWFgftj5cH1hBRp9L5HYlwnYZ\r\n\r\nHint:\r\n- mimikatz\r\n- Port 3389\r\n\r\n\r\n\r\n*Problem setter: farisv*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 6, 
+            "Points": 500
+        }, 
+        "Exfiltration": {
+            "Description": "IDS kami mendeteksi adanya indicator of compromise pada network traffic berikut. Sepertinya ada RAT yang melakukan data exfiltration secara sembunyi-sembunyi. Data apa yang diambil oleh RAT tersebut?\r\n\r\nhttps://drive.google.com/open?id=1uCIX3_hHj2OaU5RJ6f01dXP9dtvG_F9r\r\n\r\n\r\n*Problem setter: farisv*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 5, 
+            "Points": 293
+        }, 
+        "Split": {
+            "Description": "Suatu berkas bisa dipisahkan menjadi beberapa bagian agar dapat diunduh secara terpisah. Bagaimana cara menyatukannya?\r\n\r\nhttps://drive.google.com/open?id=1mLGqr66XlGono-mOaSv3q51H1DeobSJf\r\n\r\n\r\n*Problem setter: farisv*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 4, 
+            "Points": 100
+        }
+    }, 
+    "Reverse Engineering": {
+        "Gowon": {
+            "Description": "Entah mengapa Gowon selalu gagal menjalankan binary ini...\r\n\r\nhttps://drive.google.com/open?id=1l7jjYYloRFVTSRHo3Qm4tAt0U714o4RX\r\n\r\n\r\n*Problem setter: visat*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 13, 
+            "Points": 473
+        }, 
+        "Haseul": {
+            "Description": "Haseul diberikan sebuah binary untuk latihan reverse engineering. Bantulah dia!\r\n\r\nhttps://drive.google.com/open?id=1kmugcTNqjVDRc8gUnRYfw_mAUYxGJ97a\r\n\r\n\r\n*Problem setter: visat*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 12, 
+            "Points": 100
+        }, 
+        "Hyunjin": {
+            "Description": "Hyunjin membuat sebuah key checker di web. Akan tetapi, dia merasa JavaScript terlalu lambat sehingga dia beralih ke WebAssembly. Suatu hari dia lupa key miliknya. Bantulah Hyunjin mendapatkan key-nya kembali!\r\n\r\nCatatan:\r\n- Hati-hati karena browser dapat *hang* walaupun telah dimasukkan dengan flag yang benar.\r\n- Perhatikan overflow.\r\n\r\nhttp://203.34.119.237:40000/\r\n\r\n\r\n*Problem setter: visat*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 23, 
+            "Points": 496
+        }, 
+        "Snake's Revenge": {
+            "Description": "Pada Cyber Jawara tahun lalu, peserta diharuskan melakukan cracking terhadap program Snake agar mendapatkan skor tertentu untuk mendapatkan flag. Tahun ini Anda harus melakukan cracking terhadap  game Snake yang berbeda yang sudah diproteksi dan Anda harus mencapai skor **tepat 133333337** untuk mendapatkan flag.\r\n\r\nNote:\r\n- Game ini berbentuk aplikasi ELF yang dapat dijalankan di terminal Linux 64 bit.\r\n- Gunakan 'w', 'a', 's', dan 'd' untuk bergerak.\r\n\r\nhttps://drive.google.com/open?id=12BbU4WUObvPMDJ9rwiWkMN1dkFF0pXe5\r\n\r\n\r\n*Problem setter: farisv*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 11, 
+            "Points": 493
+        }, 
+        "newbie.exe": {
+            "Description": "Mari belajar reverse engineering dengan mencoba memecahkan program dengan kode yang sederhana.\r\n\r\nhttps://drive.google.com/open?id=1WLkMlyKfAG6Xr_XbVnM7QVHSZrXqks0M\r\n\r\n\r\n*Problem setter: farisv*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 10, 
+            "Points": 100
+        }
+    }, 
+    "Web Hacking": {
+        "CS2018": {
+            "Description": "Karena ada tim yang sudah solve soal-soal yang dikeluarkan pada 6 jam pertama, maka kami deploy soal Cyber Sea Game tahun lalu (dengan sedikit modifikasi) sebagai tambahan.\r\n\r\nhttps://drive.google.com/file/d/1fWVrQUlrAtIxR8a2-PjkMJe1Ikn-EVyd/view\r\n\r\nHint:\r\n- Nama soal ini pada Cyber Sea Game tahun lalu adalah \"readfile\"\r\n\r\nhttp://203.34.119.237:50005/", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 24, 
+            "Points": 499
+        }, 
+        "Chuu": {
+            "Description": "Chuu membuat web ChuuTube dengan teknologi terbaru yang sedang *hype* saat ini. Namun, sekilas web tersebut hanya berisi koleksi video musik dan fancamnya saja \ud83e\udd14\r\n\r\nhttp://203.34.119.237:50003/\r\n\r\n\r\n*Problem setter: visat*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 21, 
+            "Points": 100
+        }, 
+        "Heejin": {
+            "Description": "Heejin membuat web untuk menjual albumnya dalam versi digital. Album paling eksklusif, Flag, sangatlah mahal dan hanya dapat dibeli oleh 1337 haxor. Dapatkah kamu membelinya?\r\n\r\nhttps://drive.google.com/open?id=1cJPV4_bjRzMO_woqrx6_2vHp7UFsXzAY\r\n\r\nhttp://203.34.119.237:50002/\r\n\r\n\r\n*Problem setter: visat*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 20, 
+            "Points": 191
+        }, 
+        "Mysterious": {
+            "Description": "Kami menemukan PHP web shell misterius berikut di server kami. Ketika dibuka, yang kami lihat hanyalah **HTTP 500 Internal Server Error**.\r\n\r\nhttps://drive.google.com/open?id=1aBamhFxPVnVScjnyO6qPHA2nxYnKeE0f\r\n\r\nhttp://203.34.119.237:50000/shell.php\r\n\r\nNote:\r\n**Anda harus melakukan sesuatu agar shell tersebut tidak error.** Harap hanya kontak panitia apabila server benar-benar tidak dapat diakses (timeout atau unreachable).\r\n\r\n\r\n*Problem setter: farisv*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 18, 
+            "Points": 100
+        }, 
+        "Olivia": {
+            "Description": "Olivia membuat web untuk melakukan konversi gambar ke monokrom karena dia hanya menyukai warna hitam dan putih. Dia sangat yakin web buatannya aman.\r\n\r\nTugasmu adalah memberinya pelajaran bahwa tidak ada sistem yang aman! \ud83d\udc4a\ud83d\ude0e\r\n\r\nHint:\r\n- CVE-2019-9947\r\n\r\nhttps://drive.google.com/open?id=1guIsdp-F57_hoh6KPIpfTmym9EWew4uX\r\n\r\nhttp://203.34.119.237:50004/\r\n\r\n\r\n*Problem setter: visat*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 22, 
+            "Points": 498
+        }, 
+        "Under Construction": {
+            "Description": "Web ini baru saja diretas sehingga pemiliknya mengganti tampilan halamannya menjadi *under construction*. Dapatkah Anda menganalisis sebenarnya apa yang terjadi sebelumnya di web ini?\r\n\r\nhttp://203.34.119.237:50001/\r\n\r\n\r\n*Problem setter: farisv*", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 19, 
+            "Points": 100
+        }
+    }
+}

@@ -1,0 +1,43 @@
+Here is a second lesson in how to code in Cell.jar
+
+The compiler will take your code and apply it to every given cell.
+
+Each Cell will look at its 8 surrounding cells and itself(granted that you are in the "square" neighborhood setting) in order to determine what value it will take on in the next generation.
+
+The cell west of your cell is called W, the cell southeast of your cell is called SE and so on. The center cell is referenced as C.
+
+Now that you know that here is some more important syntax. 
+
+== (check if two values are equal)
+: (then)
+
+
+Here is an example 
+W == 1 : 2
+
+All lines of code you will write will be if statements. The if is implied automatically.
+This line of code is saying if the current value of the cell to the west is 1, then set the value of the center cell to be equal to 2 in the next step.
+
+Also you should know that the compiler reads your code from top to bottom. If any "if" condition is satisfied,
+then the code exits. This means that if you write:
+
+W == 1 : 2
+W == 1 : 3
+
+Then any cell with a W neighbor equal to 1 will take on the value of 2, not 3. 
+You can also add an "else" condition underneath your "if" statements. For example:
+
+W == 1 : 2
+W == 2 : 3
+4
+
+Cells with western neighbors equal to 1 will take on the value of 2. Cells with western neighbors equal to 2 will take on the value of 3. 
+The number 4 is an "else" condition: if none of the previous "if" conditions are true, the cell becomes 4 by default. 
+
+Finally, you should know that if none of the "if" conditions are satisfied and there is no default value, then the cell will automatically become 0. 
+
+Hit "inpat" to import a cell pattern from "inpattern.txt" in the same folder that Cell.jar is in.
+Hit "parse" to compile your program, and hit "step" to move forward one generation.
+Hit "outpat" if you want to save the current cell pattern to "outpattern.txt".
+
+This is just an intro to what you can do with this language, but it should be all you need to solve the problem.

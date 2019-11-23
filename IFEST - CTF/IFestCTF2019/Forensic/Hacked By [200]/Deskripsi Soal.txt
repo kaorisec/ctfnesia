@@ -1,0 +1,3 @@
+Terjadi tindakan deface pada PT ABC, sysadmin telah memberi kamu file web log untuk diteliti, tim developer kesusahan untuk melakukan patching celah dikarenakan tidak tahu cara reproduce celahnya. dapatkah kamu membantu mereproduce celahnya?
+
+http://103.129.221.73:8086/

@@ -1,0 +1,3 @@
+Polisi memiliki memory dump milik penjahat, polisi ingin secara leluasa menyelidiki file-file yang ada di laptop penjahat melalui GUI, namun polisi terkendala tidak mengetahui password laptop penjahat.
+
+Temukan password untuk masuk laptop penjahat! Agar polisi bisa secara leluasa menyelidiki file yang ada didalamnya melalui GUI.

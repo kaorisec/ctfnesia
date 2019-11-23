@@ -1,0 +1,203 @@
+{
+    "Crypto": {
+        "Cryptopher": {
+            "Description": "Belajar matematika h3h3\r\n\r\nAuthor : <b>ChaO</b>", 
+            "Files": [
+                "57609660c87b94ee8411e442b6918391/encrypt.py", 
+                "187f462be73633e610e87e24379864d9/flag.enc"
+            ], 
+            "Hint": "", 
+            "ID": 18, 
+            "Points": 50
+        }, 
+        "ReUse": {
+            "Description": "Pake terooos kuncinya\r\n\r\nAuthor: bot", 
+            "Files": [
+                "f080448ee833377c6c0c2d0abc7c44e3/ReUse.zip"
+            ], 
+            "Hint": "", 
+            "ID": 15, 
+            "Points": 100
+        }, 
+        "bASe64 encRyption": {
+            "Description": "base64 is not encryption ?\r\n\r\nAuthor: bot", 
+            "Files": [
+                "49773d90c5acb4bd736ef637b6b9c664/bASe64_encRyption.zip"
+            ], 
+            "Hint": "", 
+            "ID": 16, 
+            "Points": 150
+        }
+    }, 
+    "Forensic": {
+        "Log": {
+            "Description": "Bantu mimin analisis log server yg dihek:(\r\n\r\nAuthor: bot", 
+            "Files": [
+                "c7997dd5814bd088f51644213db7bed8/log.zip"
+            ], 
+            "Hint": "", 
+            "ID": 13, 
+            "Points": 100
+        }, 
+        "Piggy Sliced": {
+            "Description": "Panca dikenal sebagai seseorang yang rapi dalam menyimpan file-file yang dimilikinya. Namun suatu hari setelah Panca menghilang, ia hanya meninggalkan sebuah file.\r\nApakah itu hanyalah corrupted file? \r\n\r\nAuthor: bemrdo", 
+            "Files": [
+                "6cb3bc6d1d620f46d66af9d6840c8986/panca.png"
+            ], 
+            "Hint": "", 
+            "ID": 14, 
+            "Points": 150
+        }
+    }, 
+    "Misc": {
+        "Sanity Check": {
+            "Description": "Cek channel di Slack untuk mendapatkan free-flagnya!", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 22, 
+            "Points": 1
+        }
+    }, 
+    "Pwn": {
+        "Ms.Canary": {
+            "Description": "Whoaa..\r\nMiss canaria ! Please return to me !!\r\n\r\n`nc 103.200.7.150 50600`\r\n\r\nAuthor : <b>ChaO</b>\r\n\r\n<img src=\"https://pbs.twimg.com/media/Cm8889lWIAA95Mr.jpg\" width=\"350\" height=\"250\">", 
+            "Files": [
+                "2d2dec83e0554ac3306e33516bc22c5b/canary"
+            ], 
+            "Hint": "", 
+            "ID": 10, 
+            "Points": 150
+        }, 
+        "My first game": {
+            "Description": "Fajar adalah game developer wannabe, kali ini fajar sedang belajar membuat game. <br> Fajar membuat game tersebut dengan berbagai macam fungsi, namun sepertinya fungsi yang dibuat fajar menimbulkan suatu vulnerability.<br>\r\nDimanakah vulnerability tersebut?\r\nCan you exploit Fajar's game?\r\n`nc 103.200.7.150 50800`\r\n<br>\r\nAuthor: <b>ChaO</b>", 
+            "Files": [
+                "0e6a2d9fac83212c4d8bd4fc6de3814b/game"
+            ], 
+            "Hint": "", 
+            "ID": 9, 
+            "Points": 150
+        }, 
+        "coldup_pwn": {
+            "Description": "Pendinginan\r\nAbis warmup coldup\r\n\r\n`nc 103.200.7.150 50400 `\r\n\r\nAuthor : <b>ChaO</b>", 
+            "Files": [
+                "e8b5110a0ebbee58f5f0bb7f970ed704/ez2"
+            ], 
+            "Hint": "", 
+            "ID": 3, 
+            "Points": 70
+        }, 
+        "fruit": {
+            "Description": "Jualan buah di acara CTF kayaknya menariq hehehehe\r\n\r\n`nc 103.200.7.150 20110`\r\nAuthor : <b>anti_pencerahan_club</b>", 
+            "Files": [
+                "b6e5fbb9d801f5ae57de9e0750d9f761/fruit"
+            ], 
+            "Hint": "", 
+            "ID": 19, 
+            "Points": 100
+        }, 
+        "mashook pak echo": {
+            "Description": "Haikal baru saja belajar membuat program untuk print setiap string yang di inputkan <br>dengan bahasa C, Namun sepertinya haikal lupa untuk<br> menambahkan sesuatu pada fungsi print nya.  \r\nCan you exploit haikal's program?<p>\r\n`nc 103.200.7.150 50700`\r\nAuthor : <b>ChaO</b>", 
+            "Files": [
+                "d4fc34dce7151f18d52949ec0dc6d01d/echo"
+            ], 
+            "Hint": "", 
+            "ID": 8, 
+            "Points": 200
+        }, 
+        "warmup welcome": {
+            "Description": "Ahhh warmup, here we go again :(\r\n\r\n`nc 103.200.7.150 20114`\r\nAuthor : <b>anti_pencerahan_club</b>", 
+            "Files": [
+                "005feed9600dab9fd83dc17a5ac50b11/warmup_welcome"
+            ], 
+            "Hint": "", 
+            "ID": 23, 
+            "Points": 75
+        }, 
+        "warmup_pwn": {
+            "Description": "<p>Coba di pwn, warmup doang kok h3h3<p>\r\n`nc 103.200.7.150 50200`\r\n\r\nAuthor : <b>ChaO</b>", 
+            "Files": [
+                "d037996bc092d2ab68a88e402e52fb29/ez1"
+            ], 
+            "Hint": "", 
+            "ID": 2, 
+            "Points": 50
+        }
+    }, 
+    "Reverse Engineering": {
+        "Android": {
+            "Description": "Jonny diminta oleh Bono untuk membuat sebuah aplikasi android. Namun di tengah perjalanan, Jonny memilih kabur ke luar negeri dan hanya meninggalkan sebuah link google drive untuk meng-unduh file *.apk nya saja untuk Bono. Saat Bono mencoba aplikasi tersebut, ternyata ada pop-up untuk memasukkan kode serial agar bisa mengakses aplikasi tersebut. Bantulah Bono untuk mendapatkan kode serial dari aplikasi tersebut.\r\n\r\nLink: https://drive.google.com/file/d/1XsLxmq9DjuTZn0AU4ol66pHEbJ_I-IFX/view\r\n\r\nAuthor : userpanic", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 17, 
+            "Points": 100
+        }, 
+        "HackTheGame-v001": {
+            "Description": "I'm trying to make a game, please help me to test it :)\r\n\r\nauthor: myitinos", 
+            "Files": [
+                "fe0ac8f89a4654a3a701d2e22c0ff303/version001"
+            ], 
+            "Hint": "", 
+            "ID": 20, 
+            "Points": 50
+        }, 
+        "HackTheGame-v002": {
+            "Description": "I just updated the game and add new functionality! Please help me test it again! :)\r\n\r\n`nc 103.200.7.150 30312`\r\n\r\nauthor: myitinos\r\n", 
+            "Files": [
+                "535e9d1a39ed1b4d621c0c22673a7c85/version002"
+            ], 
+            "Hint": "", 
+            "ID": 21, 
+            "Points": 150
+        }, 
+        "spell-warz": {
+            "Description": "Hello guys, I'm trying to make a game\r\nWill you please try it out for me? :)\r\nWhile you are at it, can you defeat the Arch-Mage?\r\n`nc 103.200.7.150 30310`\r\n\r\nauthor: myitinos", 
+            "Files": [
+                "13785a00bfb467a7ead6e5e6eedeb2e9/spell-warz"
+            ], 
+            "Hint": "", 
+            "ID": 4, 
+            "Points": 50
+        }, 
+        "spell-warz-again": {
+            "Description": "Hello guys, there's an update to my last game\r\nNow you can choose your own name! Cool isn't it :)\r\nAlso, I made the new Arch-Mage a little weak\r\nplease defeat him again!\r\n`nc 103.200.7.150 30311`\r\n\r\nauthor: myitinos", 
+            "Files": [
+                "5e8a4af29e49adfb9b8c4246834d1433/spell-warz-again"
+            ], 
+            "Hint": "", 
+            "ID": 5, 
+            "Points": 300
+        }
+    }, 
+    "Web": {
+        "Change My Background": {
+            "Description": "kang <b>batu akik</b> membuat website sederhana dengan bahasa pemrograman kesukaannya, tapi sepertinya dia membuat kesalahan.\r\n\r\ngunakan kesalahan kang <b>batu akik</b> untuk mendapatkan <b>flag.txt</b>\r\n\r\n<a>http://103.200.7.150:40612</a>\r\n\r\nAuthor: Toni Setark", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 11, 
+            "Points": 250
+        }, 
+        "Playing DOM": {
+            "Description": "Saya mempunyai seekor kucing yang kehilangan arah terperangkap didalam sebuah permainan. Apakah kalian bisa membantu kucing saya ini untuk mendapatkan jalan keluarnya.\r\n\r\nhttp://103.200.7.150:40511/ \r\n\r\nAuthor: mindblow", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 7, 
+            "Points": 50
+        }, 
+        "We love Sepia!": {
+            "Description": "Suka ngubah foto biar kelihatan lebih classic? Sepia-lah solusinya, yuk cobainn!\r\n\r\n<a>http://103.200.7.150:40411</a>\r\n\r\nWe love sepia~\r\n\r\nAuthor: snowie", 
+            "Files": [
+                "5568faf0b6996cc2228d6f1b77f2b808/sepia.zip"
+            ], 
+            "Hint": "", 
+            "ID": 12, 
+            "Points": 150
+        }, 
+        "Word Generator": {
+            "Description": "An online 'Word Generator' to help you learn English.\r\n\r\nhttp://103.200.7.150:40210/\r\n\r\nAuthor: Prominence_", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 6, 
+            "Points": 75
+        }
+    }
+}

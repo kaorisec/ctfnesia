@@ -1,0 +1,135 @@
+{
+    "Cryptography": {
+        "Weak Random": {
+            "Description": "True randomness in computer is hard.\r\n\r\n`nc weakrandom.problem.cscctf.com 10000`\r\n\r\nauthor: EternalBeats", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 10, 
+            "Points": 980
+        }, 
+        "Zig in ZigZag": {
+            "Description": "Zig lost his partner in a room with X x Y unit. Zag is at the bottom right of the room. Follow Zig's journey of finding his partner Zag, and Zig will tell you the secret.\r\n\r\n`WbiushCTneoebFppelpAHiaodMdtilaelehsasnDOashnegrcmeTvKYeftAoddZIoWrheiocQhndHSismhIeTnuiuemAaopNeesCodFpesalvHpoTrUoDOihettgeeitoesmefndriioTrnTTZepcPrOTocroegohideipouhnsiBIToigAtihbtiWMteshHsZndtelHshehCTeaPagYoreoKetmohZrroCorTmwirhMmeid`\r\n\r\nP.S. Please submit the flag in `CCC{...}` format.", 
+            "Files": [
+                "/files/80851d11af09db5dd2cdc11165d7cad2/zigzag.py?token=eyJ0ZWFtX2lkIjozOSwidXNlcl9pZCI6MzgsImZpbGVfaWQiOjh9.XdE0eQ.IgbXRIYVWs5c-s5pbKIgkfMwoJ0"
+            ], 
+            "Hint": "", 
+            "ID": 13, 
+            "Points": 100
+        }
+    }, 
+    "Forensic": {
+        "Beulah": {
+            "Description": "Bersatu kita teguh, bercerai kita [corrupted](https://www.dropbox.com/s/askov9rvzkvgpnb/chall.pcapng?dl=0).\r\n\r\nauthor: Bigby", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 12, 
+            "Points": 775
+        }, 
+        "DUARRR!!": {
+            "Description": "Indonesia telah memasuki tahun 2027, ASEAN telah membentuk kesepakatan untuk melakukan pengawasan ketat terhadap peredaran memes karena diduga merusak kejiwaan pemuda pemudi negara asia.\r\nKamu diberikan arahan untuk menginvestigasi printer dari seorang warga negara Indonesia yang diduga telah mencetak memes secara illegal, coba cari tahu apa yang sebenarnya dicetak.\r\n\r\n[File](https://www.dropbox.com/s/4pcckib0s7cft76/printerlog?dl=0)\r\n\r\nauthor: Bigby", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 14, 
+            "Points": 424
+        }, 
+        "rogue-image": {
+            "Description": "Si Budi Kecil mendapat tautan misterius di surat elektronik miliknya.\r\nKetika dibuka, Si Budi Kecil menemukan sebuah file rahasia yang dicompress.\r\n\"Siapapun yang bisa memecahkan misteri yang ada di dalam file ini saya\r\nnyatakan sebagai Master Trainee Android Forensic Analyst/Pentester\", begitu pesan yang didapatkan berikut tautan tersebut.\r\nSi Budi Kecil mengupload file tersebut ke dalam [dropbox](https://www.dropbox.com/s/5jza1dsuzms83qt/avd.zip?dl=0).\r\n\r\nDapatkah anda menjadi Master Trainee Android Forensic Analyst/Pentester?\r\n\r\nP.S. File size is 600MB.\r\nP.P.S. Please submit flag with `CCC{...}` format.\r\n\r\nauthor: takaya", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 11, 
+            "Points": 1000
+        }
+    }, 
+    "Pwn": {
+        "babyheap": {
+            "Description": "`nc babyheap.problem.cscctf.com 11113`\r\n\r\nauthor: st\u00fcrmisch", 
+            "Files": [
+                "/files/aadfee2ba0ec06b4e9221768679ef19f/babyheap_dist.zip?token=eyJ0ZWFtX2lkIjozOSwidXNlcl9pZCI6MzgsImZpbGVfaWQiOjN9.XdE0fA.ByRuASAoRHmg_K4xl1G-2xHd8vU"
+            ], 
+            "Hint": "`smallbin consolidation`", 
+            "ID": 5, 
+            "Points": 1000
+        }, 
+        "babystack": {
+            "Description": "`nc babystack.problem.cscctf.com 11111`\r\n\r\n\r\nauthor: st\u00fcrmisch", 
+            "Files": [
+                "/files/b0b6e533cbeb1e5f07643a58027f96da/babystack_dist.zip?token=eyJ0ZWFtX2lkIjozOSwidXNlcl9pZCI6MzgsImZpbGVfaWQiOjF9.XdE0ew.jsetfktR9MCW3jAMatinWA2rWas"
+            ], 
+            "Hint": "", 
+            "ID": 3, 
+            "Points": 991
+        }, 
+        "signal": {
+            "Description": "`nc signal.problem.cscctf.com 11112`\r\n\r\nauthor: st\u00fcrmisch", 
+            "Files": [
+                "/files/897cb48b28471a20e927975f33f37183/signal_dist.zip?token=eyJ0ZWFtX2lkIjozOSwidXNlcl9pZCI6MzgsImZpbGVfaWQiOjJ9.XdE0fA.K4trB4Ce1MPDKcNBRpv63AtF0ko"
+            ], 
+            "Hint": "`__libc_csu_init`", 
+            "ID": 4, 
+            "Points": 1000
+        }, 
+        "twelver": {
+            "Description": "`nc twelver.problem.cscctf.com 11114`\r\n\r\nauthor: st\u00fcrmisch", 
+            "Files": [
+                "/files/efcb3e82fd9dc50f256b43285fa6d0b5/twelver_dist.zip?token=eyJ0ZWFtX2lkIjozOSwidXNlcl9pZCI6MzgsImZpbGVfaWQiOjR9.XdE0fQ.1FGs77DxOaCtcOBnTigwCYskmi0"
+            ], 
+            "Hint": "", 
+            "ID": 6, 
+            "Points": 998
+        }
+    }, 
+    "Reverse Engineering": {
+        "EMHAWE": {
+            "Description": "It looks fine, but I think my code is broken :((\r\n\r\nP.S. Please submit flag with `CCC{...}` format\r\n\r\nauthor: NeXT", 
+            "Files": [
+                "/files/7dab8ae6b4b94eb35d332257920e95e4/EMHAWE.zip?token=eyJ0ZWFtX2lkIjozOSwidXNlcl9pZCI6MzgsImZpbGVfaWQiOjZ9.XdE0fg.K991N73Yk-jcf-7JbOAhgXJFz0w"
+            ], 
+            "Hint": "", 
+            "ID": 8, 
+            "Points": 559
+        }, 
+        "HelloObjectiveC": {
+            "Description": "Please submit flag with `CCC{...}` format.\r\n\r\nauthor: avltree9798", 
+            "Files": [
+                "/files/7eb388489e8410ac4c5d65f006701655/HelloObjectiveC?token=eyJ0ZWFtX2lkIjozOSwidXNlcl9pZCI6MzgsImZpbGVfaWQiOjd9.XdE0fg.FI3YHlOGSdNsw16qJWhjkhmqDwY"
+            ], 
+            "Hint": "", 
+            "ID": 9, 
+            "Points": 100
+        }, 
+        "crackwrr": {
+            "Description": "Cracker jahat adalah h4ckwr baik yang tersakiti.....\r\n\r\nauthor: redspiracy", 
+            "Files": [
+                "/files/489a818f6286d3de51258ed034392557/crackwrr?token=eyJ0ZWFtX2lkIjozOSwidXNlcl9pZCI6MzgsImZpbGVfaWQiOjV9.XdE0fg.HAm_8sRi1DhabDA67Zr_MIUBYv8"
+            ], 
+            "Hint": "", 
+            "ID": 7, 
+            "Points": 100
+        }
+    }, 
+    "Web": {
+        "Flasklight": {
+            "Description": "http://flasklight.problem.cscctf.com:9000/\r\n\r\nauthor: ArkAngels", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 15, 
+            "Points": 100
+        }, 
+        "Prove you are not a human": {
+            "Description": "http://proveyouarenotahuman.problem.cscctf.com:9001/\r\n\r\nauthor: Siahaan", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 16, 
+            "Points": 100
+        }, 
+        "zlippery": {
+            "Description": "http://zlippery.problem.cscctf.com:9002/\r\n\r\nauthor: Siahaan", 
+            "Files": [
+                "/files/78b1617168e77e1966f51fc68f84e6a4/main.go?token=eyJ0ZWFtX2lkIjozOSwidXNlcl9pZCI6MzgsImZpbGVfaWQiOjl9.XdE0fw.ymB8uXMOiugaVzHJGxl2cpbbs2Y"
+            ], 
+            "Hint": "", 
+            "ID": 17, 
+            "Points": 1000
+        }
+    }
+}
