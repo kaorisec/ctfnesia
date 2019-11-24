@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>Doggo Lovers</title>
+    </head>
+    <body style="background-color: gainsboro">
+    <hr>
+    <center>
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+            {% for message in messages %}
+                {{ message }}
+            {% endfor %}
+        {% endif %}
+        {% endwith %}
+        <br>
+            <img src="/static/images/{{ pic }}" width="40%" height="70%">
+        <form action="/" method="post" novalidate>
+            {{ form.hidden_tag() }}
+            <p>
+                {{ form.name.label }}<br>
+                {{ form.name(size=32) }}
+            </p>
+            <p>{{ form.submit() }}</p>
+        </form>
+    </center>
+    </body>
+</html>
