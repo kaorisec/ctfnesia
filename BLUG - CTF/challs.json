@@ -1,0 +1,323 @@
+{
+    "Cryptography": {
+        "3D esss": {
+            "Description": "<br>3Dimensi<br>\r\n\r\nenkripsi : k1XRhxvbwvFex83ywXkDPzlwZyLRtQ5Q <br>\r\nKey : BLUG <br>\r\nIV    :  1337 <br>\r\n\r\nFormat Flag : BLUG{example}<br>\r\n\r\nProblem Setter : @artharezky <br>\r\n\r\n", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 41, 
+            "Points": 300
+        }, 
+        "Base64 Recursive": {
+            "Description": "sesuai nama soal base64 encode recursive pasti paham lah :)", 
+            "Files": [
+                "/files/6b71a095de7a0c639d672e9adae41301/flag.txt?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjE2fQ.Xdrzfg.psnbmY9cx_kJsr2qnL4aRNRNBd0"
+            ], 
+            "Hint": "", 
+            "ID": 25, 
+            "Points": 50
+        }, 
+        "Base64 Version 2.0": {
+            "Description": "Kali ini sama aja seperti sebelum nya tetapi ini tidak recursive melainkan tinggal di decode saja :) <br>\r\n\r\n1. QkxVR3t3dGZfZmxhZ19wYWxzdX0== <br><br>\r\n2. ==9RHe09VZzNnclZ3My9VesFzc0U2X0YzXlNHNit3RVxkQ\r\n", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 30, 
+            "Points": 100
+        }, 
+        "Binnortal": {
+            "Description": "True or False ?\r\n\r\n110001 110000 110010 100000 110001 110001 110100 100000 110001 110010 110101 100000 110001 110000 110111 100000 110001 110111 110011 100000 110001 110100 110010 100000 110100 110001 100000 110001 110101 110110 100000 110110 110100 100000 110001 110110 110010 100000 110001 110111 110001 100000 110001 110011 110111 100000 110001 110100 110001 100000 110001 110101 110110 100000 110001 110100 110100 100000 110001 110011 110111 100000 110110 110000 100000 110001 110100 110011 100000 110001 110110 110100 100000 110001 110100 110001 100000 110001 110101 110100 100000 110001 110111 110101", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 27, 
+            "Points": 30
+        }, 
+        "Dunia Terbalik": {
+            "Description": "Jangan sampai berpaling dari nya :)\r\n\r\necruoS_nepO_oG_aisenodni : umak kutnu galf ini nad acabmem halet hisakamiret .igabreb nad rajaleb nitur nataigek nagned mataB atoK id rasebret xuniL anuggnep satinumok halada GULB puorG resU xuniL mataB\r\n\r\nFormat Flag : BLUG{xxxxxx}", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 28, 
+            "Points": 40
+        }, 
+        "Easy Cipher": {
+            "Description": "<br>Ini hanya sebuah easy cipher aja kok tidak lebih hehe <br>\r\n\r\nProblem Setter : Akinari <br>\r\n", 
+            "Files": [
+                "/files/b8ab39fad5321a11cdd6225812a58499/Easy_Cipher.zip?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjI3fQ.XdrzgA.nRMBkt3qolE_j8iIuIYBRYXcyGY"
+            ], 
+            "Hint": "", 
+            "ID": 39, 
+            "Points": 400
+        }, 
+        "JS Esolangs": {
+            "Description": "WTF javascript apaan ini,  bisakah kamu menerjemahkan nya ?", 
+            "Files": [
+                "/files/98df99dd9696c6b9808b194d23cd8faa/JS.txt?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjE5fQ.XdrzgA.Ti7B3Wa5RSzsGdbIBwtHZ5dk6BA"
+            ], 
+            "Hint": "", 
+            "ID": 33, 
+            "Points": 200
+        }, 
+        "Just RSA": {
+            "Description": "<br> RSA merupakan algoritma kriptografi asimetri, dimana kunci yang digunakan untuk mengenkripsi berbeda dengan yang digunakan. <br>\r\n\r\nProblem Setter : Akinari <br>", 
+            "Files": [
+                "/files/7a48ae067b36761577e17b1996bf6653/rsaencrypt.py?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjMwfQ.XdrzgA.KBJ_ipPoveuvpAVfTQbOf52bTG0", 
+                "/files/9feac017fe8a51e08f52576fa5fa6635/enkripsi.txt?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjMxfQ.XdrzgA.h-E5pdnYx1S57NOdz9BTasYx7oQ"
+            ], 
+            "Hint": "", 
+            "ID": 40, 
+            "Points": 500
+        }, 
+        "Kaisar Ali Baba": {
+            "Description": "kali ini kode rahasia dari kaisar ali baba yang harus di pecahkan <br>\r\n\r\nAKTF{Q4iz_B4drzq_4kh_a4az} <br>\r\n\r\nFormat Flag : BLUG{xxxxxx}", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 26, 
+            "Points": 20
+        }, 
+        "Phone Nokia": {
+            "Description": "Masih inget sama aku ? <br>\r\n dulu masih jaman jamannya rame sms an :) <br>\r\nsekarang aku kembali untuk mengisi soal ctf bikin nostalgia kan. <br>\r\nFormat Flag : BLUG{lowercase}\r\n<br><br>\r\n<img src=\"https://www.yorku.ca/mack/chapter5-f2.jpg\">\r\n", 
+            "Files": [
+                "/files/ae69b2d07695de8b5f62046311ca4e0b/nokia.txt?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjE4fQ.XdrzgA.4cSh1hg_iwjxTsJigyYMVkTrgCQ"
+            ], 
+            "Hint": "", 
+            "ID": 32, 
+            "Points": 150
+        }, 
+        "Tukang Spam": {
+            "Description": "Admin1337 adalah tukang spam di shi*tpost bacotan hacker masa kini. bisakah kamu menerjemahkan spam nya ? <br>\r\n\r\nFormat Flag : BLUG{flag} <br>\r\n\r\nAuthor : @artharezkyy\r\n\r\n", 
+            "Files": [
+                "/files/d8caa80df358bb919ba01ea264527e7e/spam.txt?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjE3fQ.XdrzgA.SohQzHtRDe6bzBPfDvXWQnERprE"
+            ], 
+            "Hint": "", 
+            "ID": 31, 
+            "Points": 75
+        }, 
+        "Vigenerin aja": {
+            "Description": "yupspp mari kita coba pecahkan kode di bawah ini lagi :) <br>\r\n\r\nKey : BLUG <br><br>\r\nCWOM{wtakoplk_llmotvco} <br>\r\n\r\nAuthor : @artharezky ", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 34, 
+            "Points": 60
+        }
+    }, 
+    "Forensic": {
+        "Can You See Me ?": {
+            "Description": "<br>Nezuko sudah lama sekali bertapa di dalam tong. setelah bebas dari tong dia tidak bisa  cara melihat password yang dia cari selama ini<br>\r\n\r\nbisakah kamu membantu nezuko untuk melihat password nya?<br>\r\n\r\nProblem Setter : @artharezkyy<br>", 
+            "Files": [
+                "/files/0657e51ba118df099f59fe470137042a/Can_You_See_me.pdf?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjd9.Xdrzgg.AcUs5W1M8jNQsCUDGjmCRtbxliA"
+            ], 
+            "Hint": "", 
+            "ID": 15, 
+            "Points": 50
+        }, 
+        "Dia": {
+            "Description": "<br>Oh Tuhan kucinta dia<br>\r\nKusayang dia, rindu dia, inginkan dia<br>\r\nUtuhkanlah rasa cinta di hatiku<br>\r\nHanya padanya<br>\r\nUntuk dia<br>\r\n\r\nProblem Setter : @artharezkyy <br>", 
+            "Files": [
+                "/files/798b442c90ff4d6356275054a6656f21/dia.wav?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjEyfQ.Xdrzgg.ipPZAWKqMbHT_k_AkUeIjnYf8BQ"
+            ], 
+            "Hint": "", 
+            "ID": 20, 
+            "Points": 150
+        }, 
+        "Eksitensi": {
+            "Description": "<br>File System telah di ubah. \r\n<br> bisakah kamu menemukan flag nya  ? \r\n<br><br>\r\nProblem Setter : @artharezkyy\r\n<br>", 
+            "Files": [
+                "/files/33545e8ab6a0227c42ee4ce1ffd6a81c/Angkatan2018.jpg?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjR9.XdrzgA._WaYbFZeP8yKydIvJoN0ZWbMoo4"
+            ], 
+            "Hint": "", 
+            "ID": 12, 
+            "Points": 20
+        }, 
+        "Ez Tools": {
+            "Description": "<br>Tools Steganography mungkin bisa membantu anda.<br>\r\n\r\nProblem Setter : @artharezkyy <br>", 
+            "Files": [
+                "/files/3c85d35118c0e43c1d41c0a8db31401b/BLUG.jpg?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjExfQ.Xdrzgg.jir4t_xeYURjp1AYNrbu8jLp1PU"
+            ], 
+            "Hint": "", 
+            "ID": 19, 
+            "Points": 200
+        }, 
+        "Hidden File": {
+            "Description": "<br>Admin telah menyembunyikan barang yang ingin kamu cari.\r\n<br>\r\npasti Bisalah kamu menemukan nya :)\r\n<br><br>\r\nProblem Setter : @artharezkyy", 
+            "Files": [
+                "/files/a330c60ee19bb62f73c6dfed093ade66/HiddenFile_50_POINT.tar.xz?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjV9.XdrzgQ.2WRnz3qh_gV1e3rayGMXzlWAc_g"
+            ], 
+            "Hint": "", 
+            "ID": 13, 
+            "Points": 75
+        }, 
+        "Kemarin": {
+            "Description": "<br>Kemarin aku menyembunyikan sesuatu barang. tapi aku lupa barang itu ada dimana. saya coba pikir-pikir tidak ingat juga. bisa kah kamu membantu saya?<br>\r\n\r\nProblem Setter : @artharezkyy <br>", 
+            "Files": [
+                "/files/b9883b5c163780da572a609ddb759d3d/kemarin.png?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjEwfQ.Xdrzgg.tzm_mJWJYU3RRkUP6X9zgdYE7V4"
+            ], 
+            "Hint": "", 
+            "ID": 18, 
+            "Points": 100
+        }, 
+        "Lord X-one": {
+            "Description": "<br>saya menyembunyikan file di gambar lagi, bisa kah kamu mengektraknya ?<br>\r\n\r\nProblem Setter : @artharezkyy <br>", 
+            "Files": [
+                "/files/efd33e8a45253d1ca30762c54fb74cbd/Lord_Askeladd.jpg?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjl9.Xdrzgg.8wpHSMiBx9S0PC49IK2G5adD-6A"
+            ], 
+            "Hint": "", 
+            "ID": 17, 
+            "Points": 60
+        }, 
+        "Nezuko": {
+            "Description": "<br>\r\nMungkin dengan strings Nezuko bisa menemukan Tanjiro<br><br>\r\n\r\nProblem Setter : @artharezkyy", 
+            "Files": [
+                "/files/7cc786a9f69ce5bcc669d4169eb896d5/Nezuko.jpg?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjZ9.XdrzgQ.ucLf-NU0rPsb5FfBzXgp25z9nrE"
+            ], 
+            "Hint": "", 
+            "ID": 14, 
+            "Points": 30
+        }, 
+        "Quick Scan": {
+            "Description": "<br>Manual itu sangat membutuhkan waktu lama.<br>\r\n\r\ntapi admin ada cara mempercepat mendapatkan nya.<br>\r\n\r\nkalo scan manual adalah jalan ninjamu. semangat proses tidak mengkhianati hasil :)\r\n\r\nProblem Setter : @artharezkyy <br>", 
+            "Files": [
+                "/files/9e2a78fb888dadc2425eafa62c289558/quick_scan.zip?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjEzfQ.Xdrzgg.iNqX6py7NuL_RIKPKUL6TVwfDx4"
+            ], 
+            "Hint": "", 
+            "ID": 21, 
+            "Points": 300
+        }, 
+        "Straw Hat Pirates": {
+            "Description": "<br>Nami seorang navigasi memberitahu informasi kepada Captain Luffy bahwa meta data informasi nya telah di ambil oleh kurohige.<br>\r\n\r\nbisakah anda membantu mengambil meta data informasi itu di tangan kurohige?\r\n<br><br>\r\nProblem Setter : @artharezkyy", 
+            "Files": [
+                "/files/e3896269f48ac99a4ccba1ea5bdaf6cc/Luffy-Kun.jpg?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjh9.Xdrzgg.69TSweTmm8_2psCDAoYdmyr9o5I"
+            ], 
+            "Hint": "", 
+            "ID": 16, 
+            "Points": 40
+        }, 
+        "Suara Merdu (TV)": {
+            "Description": "<br>Reza arap oktavian<br>\r\nGamers ganteng idaman<br>\r\nNakal tapi tampan<br>\r\nYoupp<br>\r\nItu verse dari guenext K'jov<br>\r\nYoutube Youtube Youtube lebih dari TV?<br>\r\nYoutube Youtube Youtube lebih dari TV?<br>\r\n\r\nFormat Flag : BLUG{flag}<br>\r\n\r\nProblem Setter : @artharezkyy <br>\r\n\r\n", 
+            "Files": [
+                "/files/26dca6ba620b4a8eeff5b40d66041657/SuaraMerdu.wav?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjE1fQ.Xdrzgg.F6JTgXit-jdAqxf0HDd_NrHb7qE"
+            ], 
+            "Hint": "", 
+            "ID": 23, 
+            "Points": 500
+        }, 
+        "Super Hidden": {
+            "Description": "<br>bisakah kamu membantu Tom untuk menemukan Jerry?<br>\r\n\r\nFormat Flag : BLUG{example} <br>\r\n\r\nProblem Setter : @artharezkyy <br>", 
+            "Files": [
+                "/files/ab2249c0348b7f1b7773caebc2af25b4/tom.jpg?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjE0fQ.Xdrzgg.YRWyvVx8-Gdk3ZNRWB_ztCeHDL4"
+            ], 
+            "Hint": "", 
+            "ID": 22, 
+            "Points": 400
+        }
+    }, 
+    "Misc": {
+        "0ld Rout3r": {
+            "Description": "Rezky, seorang network engineer, menemukan sebuah router yang telah usang yang merupakan router yang dulu dipakai diperusahaan nya, Evil Corp. Bantu rezky untuk melihat configurasi router tersebut\r\n\r\n<a href=\"https://drive.google.com/open?id=15V_zQY8u9Ey2pA7i8F7mr6sNoqSIgWTR\">0ld Rout3r</a>\r\n\r\nProblem Setter : @sanstech_", 
+            "Files": [], 
+            "Hint": "Username : hax0r\r\nPassword  : toor1337", 
+            "ID": 37, 
+            "Points": 150
+        }, 
+        "My Favourite Game": {
+            "Description": "Miss you my 0ld game :(\r\n\r\n<img src=\"https://gaminggrad.files.wordpress.com/2014/01/2014-01-24_00008.jpg\" style=\"height:30vh;\">\r\n\r\nProblem Setter : @sanstech_", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 38, 
+            "Points": 50
+        }, 
+        "Welcome BLUG CTF": {
+            "Description": "<br> Selamat Datang <br>\r\n\r\nIni flag gratis untukmu : BLUG{selamat_berjuang}", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 1, 
+            "Points": 10
+        }
+    }, 
+    "Web": {
+        "Booo0oooot": {
+            "Description": "Skuyyyyy<br>\r\nkenalan sama BlugOs, Robot Asisten kami <a href=\"http://31.220.52.164:8080/bot\">Disini</a>\r\n\r\nProblem Setter : @sanstech_", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 5, 
+            "Points": 40
+        }, 
+        "Exe 1": {
+            "Description": "Ihsan, seorang web developer telah selesai membuat sebuah aplikasi.\r\nBisakah kamu meretasnya ?\r\n\r\n<a href=\"http://ctfblug.mywebcommunity.org/index.php\">Aplikasiku</a>\r\n\r\nProblem Setter : @sanstech_", 
+            "Files": [
+                "/files/53ea0407e1b152e83571171d6edd776e/jos.php?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjI0fQ.XdrzhA.QvQects8p591DB7fQVancVg_yUQ"
+            ], 
+            "Hint": "Ingat !!!!!\r\nnama file yang kamu cari adalah <b>flag.php</b>", 
+            "ID": 4, 
+            "Points": 150
+        }, 
+        "Exe 2": {
+            "Description": "Kali ini Ihsan telah mengupgrade securitynya\r\n\r\n<a href=\"http://blugctf.sportsontheweb.net/\">Disini</a>\r\n\r\nProblem Setter : @sanstech_", 
+            "Files": [
+                "/files/9a2d095f925c6231594808f516c9e5f8/new.php?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjIzfQ.XdrzhA.d-xok4KL48-aak-cZW1e2nR0ln0"
+            ], 
+            "Hint": "", 
+            "ID": 6, 
+            "Points": 400
+        }, 
+        "I Sky El": {
+            "Description": "I Sky El merupakan salah satu teknik yang mematikan yang ada didunia\r\n\r\n<a href=\"http://iskyel.mypressonline.com/\">Read More</a>\r\n\r\nProblem Setter : @sanstech_", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 24, 
+            "Points": 100
+        }, 
+        "Jangan Membandingkan": {
+            "Description": "Aku tuh ga suka ya dibanding bandingin dengan yang lain\r\n\r\n<a href=\"http://31.220.52.164:8080/cmp/\">Visit Me</a>\r\n\r\nProblem Setter : @sanstech_", 
+            "Files": [
+                "/files/e3883f190a9786d41058a60de8c4d2c2/cmp.php?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjIyfQ.XdrzhA.-0enwixaUZCaCGSwW7bJHzCtgD8"
+            ], 
+            "Hint": "", 
+            "ID": 7, 
+            "Points": 60
+        }, 
+        "Logr00t": {
+            "Description": "nge-Logr00t kuy di javaskuy\r\n\r\n<a href=\"http://31.220.52.164:8080/logroot/\">Skuyyyy</a>\r\n\r\nProblem Setter : @sanstech_", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 10, 
+            "Points": 75
+        }, 
+        "My Wife's Website": {
+            "Description": "Ihsan sedang membuat sebuah website untuk istri nya yang tercinta, bisa kah kamu meretas nya ?\r\n\r\n<a href=\"http://31.220.52.164:8080/mylove\">Website Istri Ihsan</a>\r\n\r\nProblem Setter : @sanstech_", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 29, 
+            "Points": 200
+        }, 
+        "Ndasmu": {
+            "Description": "Ndasmu lah cuk, oalah cok cok\r\n\r\n<a href=\"http://31.220.52.164:8080/ndas/\">Here</a>\r\n\r\nProblem Setter : @sanstech_", 
+            "Files": [], 
+            "Hint": "", 
+            "ID": 8, 
+            "Points": 50
+        }, 
+        "Penguasa !": {
+            "Description": "Jadilah Penguasa !\r\n\r\n<a href=\"http://blugnew.atwebpages.com/index.php\">Kunjungi</a>\r\n\r\nProblem Setter : @sanstech_", 
+            "Files": [
+                "/files/d9cf3547863efdca424f04a995ea58d7/MyWeb.zip?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjIwfQ.Xdrzhg.XwiscWvgla4ava4nNh_HJOuiuAE"
+            ], 
+            "Hint": "", 
+            "ID": 35, 
+            "Points": 500
+        }, 
+        "Tak tahu": {
+            "Description": "Novi, baru saja belajar tentang web security, bisakah kamu meretasnya ?\r\n\r\n<a href=\"http://31.220.52.164:1337/\">Website Novi</a>\r\n\r\nProblem Setter : @sanstech_", 
+            "Files": [
+                "/files/43d45462fb3d34eed462170c03ca2ffd/index_web_novi.php?token=eyJ0ZWFtX2lkIjozMywidXNlcl9pZCI6NDMsImZpbGVfaWQiOjIxfQ.Xdrzhw.UnIuEQmz0FxGKhZoRF6UVT20e4Q"
+            ], 
+            "Hint": "Saya suka include meng-include", 
+            "ID": 36, 
+            "Points": 300
+        }, 
+        "tag comment": {
+            "Description": "<br>carilah flag yang tersembunyi <a href=\"http://oneagust.my.id\">di sini</a><br>\r\n\r\nProblem Setter : @oneagust<br>\r\n\r\n", 
+            "Files": [], 
+            "Hint": "terletak pada sebuah artikel blog", 
+            "ID": 11, 
+            "Points": 20
+        }
+    }
+}
